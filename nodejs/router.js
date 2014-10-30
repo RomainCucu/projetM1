@@ -41,7 +41,7 @@ rest_method:
 		} else if (this.req.method == "POST") {
 			this.post_method();
 		} else {
-			this.resp.writeHead(501, {"Content -Type": "application/json"});
+			this.resp.writeHead(501,{"Content -Type": "application/json"});
 			this.resp.write(JSON.stringify({message: "Not Implemented"}));
 			this.resp.end();
 			return;
@@ -102,7 +102,7 @@ go_post:
 			db.login(b.login, b.password, this.resp);
 		} 
 		else if (b.ac == "register"){
-			this.resp.writeHead(200, {"Content -Type": "application/json"});
+			this.resp.writeHead(200,{"Content -Type": "application/json"});
 			if (b.login.length >= 3 && b.login.length < 15){
 			db.insert(b.login, b.password, b.email, this.resp);
 			}else {
@@ -114,21 +114,21 @@ go_post:
 		else if (b.ac == "get_charts") {
 			//data = fs.readFileSync("../data.js");
 			data = fs.readFileSync("../data.json");
-			this.resp.writeHead(200, { "Content-Type": "application/json" });
+			this.resp.writeHead(200,{"Content-Type": "application/json" });
 			this.resp.write(data);
 			this.resp.end();
 		}
 		else if (b.ac == "get_charts_intraday") {
 			//data = fs.readFileSync("../data.js");
 			data = fs.readFileSync("../dataSG.json");
-			this.resp.writeHead(200, { "Content-Type": "application/json" });
+			this.resp.writeHead(200,{"Content-Type": "application/json" });
 			this.resp.write(data);
 			this.resp.end();
 		}
 		else if (b.ac == "get_charts_sg") {
 			//data = fs.readFileSync("../data.js");
 			data = fs.readFileSync("../dataSG.json");
-			this.resp.writeHead(200, { "Content-Type": "application/json" });
+			this.resp.writeHead(200,{"Content-Type": "application/json" });
 			this.resp.write(data);
 			this.resp.end();
 		}
@@ -151,24 +151,24 @@ cb_cookie:
 		if (ret) {
 /*++++++++++++++++++++++++++++++++++++++++++++MY WALLET++++++++++++++++++++++++++++*/		
 			if (b.ac == "buy-btn"){
-				this.resp.writeHead(200, {"Content -Type": "application/json"});
+				this.resp.writeHead(200,{"Content -Type": "application/json"});
 				db.buy( b.wallet, b.nbstock, this.req.headers.cookie, this.resp);	
 				return;
 			}
 			else if (b.ac == 'get-money'){
-				this.resp.writeHead(200, {"Content -Type": "application/json"});
+				this.resp.writeHead(200,{"Content -Type": "application/json"});
 				db.get_money(this.req.headers.cookie, this.resp);
 				return;
 			}
 			
 			else if (b.ac == "reset-btn"){
-				this.resp.writeHead(200, {"Content -Type": "application/json"});
+				this.resp.writeHead(200,{"Content -Type": "application/json"});
 				db.reset_btn(this.req.headers.cookie, this.resp);
 				return;		
 			}
 /*++++++++++++++++++++++++++++++GET ID JS++++++++++++++++++++++++++++*/			
 			else if (b.ac == 'get-id'){
-				this.resp.writeHead(200, {"Content -Type": "application/json"});
+				this.resp.writeHead(200,{"Content -Type": "application/json"});
 
 				db.get_id(this.req.headers.cookie, this.resp);
 				return;
@@ -177,7 +177,7 @@ cb_cookie:
 			else if(b.ac == "post-btn"){
 			//console.log("=======aloalaoalaolaoaloallaolaoaloalaoalaoalaoalo=============");
 				if (b.content.length <= 151){ // si le message est inférieur a 150 caractères
-					this.resp.writeHead(200, {"Content -Type": "application/json"});
+					this.resp.writeHead(200,{"Content -Type": "application/json"});
 					db.insert_message_forum(b.id, b.content, b.date, this.resp);
 					return;
 				}else {
@@ -185,12 +185,12 @@ cb_cookie:
 				}
 			}
 			else if(b.ac == "get-content"){
-				this.resp.writeHead(200, {"Content -Type": "application/json"});
+				this.resp.writeHead(200,{"Content -Type": "application/json"});
 				db.get_message_forum(this.resp);
 				return;	
 			}
 				else if(b.ac == "get-id-chat"){
-				this.resp.writeHead(200, {"Content -Type": "application/json"});
+				this.resp.writeHead(200,{"Content -Type": "application/json"});
 				db.get_id_chat(this.resp);
 				return;	
 			}
@@ -198,21 +198,21 @@ cb_cookie:
 
 			/*+++++++++++++++++++++++++++++++++++++++++on recup les id+++++++++++++++++++++++++*/
 			else if(b.ac == "get-content2"){
-				this.resp.writeHead(200, {"Content -Type": "application/json"});
+				this.resp.writeHead(200,{"Content -Type": "application/json"});
 				db.get_id_admin(this.resp);
 				//console.log("router");
 				return;
 			}
 			/*++++++++++++++++++++++++++++set un compte en admin ou en normal ou en suspend+++++++++++++++++++++++++*/
 			else if (b.ac == "set-account-admin"){
-				this.resp.writeHead(200, {"Content -Type": "application/json"});
+				this.resp.writeHead(200,{"Content -Type": "application/json"});
 				db.set_account_admin(b.id, b.statue, this.resp);
 				return;
 			}
 /*================pour supprimer un cookie ++++++++++++++++++++++++++++++++++++++++*/
 			else if (b.ac == "delete-cookie"){
 			
-				this.resp.writeHead(200, {"Content -Type": "application/json"});
+				this.resp.writeHead(200,{"Content -Type": "application/json"});
 				db.delete_cookie(this.req.headers.cookie, this.resp);
 				return;
 			}
@@ -223,7 +223,7 @@ cb_cookie:
 	
 			// on envoie à la db via le cookie, le mdp récupérer dans settings.html via settings.js
 			else if (b.ac == "change-mdp") {
-			this.resp.writeHead(200, { "Content-Type": "application/json" });
+			this.resp.writeHead(200,{"Content-Type": "application/json" });
 				db.change_mdp(this.req.headers.cookie, b.password, b.npassword, this.resp);
 				return;
 			// DONE Récupérer dans la db, le mdp selon l'id présent ds le cookie
@@ -232,14 +232,14 @@ cb_cookie:
 			
 			// on envoie à la db via le cookie, l'email récupérer dans settings.html via settings.js
 			else if (b.ac == "change-email") {
-			this.resp.writeHead(200, { "Content-Type": "application/json" });
+			this.resp.writeHead(200,{"Content-Type": "application/json" });
 				db.change_email(this.req.headers.cookie, b.email, b.pw, this.resp);
 				return;
 			}
 			
 			// on envoie à la db via le cookie, le mdp récupérer dans settings.html via settings.js
 			else if (b.ac == "delete-account") {
-			this.resp.writeHead(200, { "Content-Type": "application/json" });
+			this.resp.writeHead(200,{"Content-Type": "application/json" });
 				db.delete_account(this.req.headers.cookie, b.pwd, this.resp);
 				return;
 			}
@@ -286,7 +286,7 @@ load_file:
 			} });
 			} else {
 				util.log("INFO - File requested not found : " + _this.path);
-				_this.resp.writeHead(404, {"Content -Type":"text/html"});
+				_this.resp.writeHead(404,{"Content -Type":"text/html"});
 				_this.resp.end(); 
 			}
 		});
@@ -295,11 +295,11 @@ load_file:
 file_processing:
 	function () {
 		if (this.filetype == "htm") {
-			this.resp.writeHead(200, {"Content -Type": "text/html"});
+			this.resp.writeHead(200,{"Content -Type": "text/html"});
 		} else if (this.image_file.indexOf(this.filetype) >= 0) {
-			this.resp.writeHead(200, { "Content-Type" : "image/" + this.filetype });
+			this.resp.writeHead(200,{"Content-Type" : "image/" + this.filetype });
 		} else {
-			this.resp.writeHead(200, { "Content-Type" : "text/" + this.filetype });
+			this.resp.writeHead(200,{"Content-Type" : "text/" + this.filetype });
 		}
 		this.file_send();
 	},

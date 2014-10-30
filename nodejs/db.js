@@ -26,9 +26,9 @@ exports.insert = function (l, p, m, res) {
         stmt.run(l, p, m, function (e) {
         	if (e) {
         		util.log("ERROR - DB doublon  : " + e);
-        		res.end(JSON.stringify({message: "ko"}));
+        		res.end(JSON.stringify({message:"ko"}));
         	} else {
-        		res.end(JSON.stringify({message: "ok"}));
+        		res.end(JSON.stringify({message:"ok"}));
         	}
         		
         });
@@ -71,10 +71,10 @@ exports.insert_admin_from_terminal = function (l, p, m) {
         	if (e) {
         		util.log("ERROR - DB : " + e);
         		
-        		res.end(JSON.stringify({message: "ko"}));
+        		res.end(JSON.stringify({message:"ko"}));
         	} else {
-        		res.writeHead(200, {"Content -Type": "application/json"});
-        		res.end(JSON.stringify({message: "ok"}));
+        		res.writeHead(200,{"Content -Type":"application/json"});
+        		res.end(JSON.stringify({message:"ok"}));
         	}
         		
         });
@@ -180,11 +180,11 @@ exports.set_account_admin = function (s, l, res){
 	//console.log('0000000000000004');
 	db.run("UPDATE test SET accountstatue = ? WHERE id = ?", l, s);
 	if (l =="1"){
-		res.end(JSON.stringify({message: "up"}));
+		res.end(JSON.stringify({message:"up"}));
 	}else if(l =="0"){
-		res.end(JSON.stringify({message: "down"}));
+		res.end(JSON.stringify({message:"down"}));
 	}else if(l =="2"){
-		res.end(JSON.stringify({message: "suspend"}));
+		res.end(JSON.stringify({message:"suspend"}));
 	}
 	
 };
@@ -229,13 +229,13 @@ exports.change_mdp = function (l, op, np, res){
 			if (r.pw == op){
 	
 				db.run("UPDATE test SET pw = ? WHERE cookie_id = ?", np, m[1]);
-				res.end(JSON.stringify({message: "OK"}));
+				res.end(JSON.stringify({message:"OK"}));
 			}else{
-				res.end(JSON.stringify({message: "pwdiff"}));
+				res.end(JSON.stringify({message:"pwdiff"}));
 			}
 		}
 		else{
-			res.end(JSON.stringify({message: "KO"}));
+			res.end(JSON.stringify({message:"KO"}));
 		}
 	});
 };
@@ -260,14 +260,14 @@ exports.change_email = function (c, em, pwz, res){
 		
 				if ( r.pw == pwz ){
 					db.run("UPDATE test SET mail = ? WHERE cookie_id = ?", em, m[1]);
-					res.end(JSON.stringify({message: "OK"}));
+					res.end(JSON.stringify({message:"OK"}));
 				}
 				else {
-					res.end(JSON.stringify({message: "ERRORMDP"}));
+					res.end(JSON.stringify({message:"ERRORMDP"}));
 				}
 			}
 		else{
-				res.end(JSON.stringify({message: "KO"}));
+				res.end(JSON.stringify({message:"KO"}));
 			}
 		
 	});
@@ -292,14 +292,14 @@ exports.delete_account = function (c, mdp, res){
 				if ( r.pw == mdp ){
 					console.log('if mdp egal');
 					db.run("DELETE FROM test WHERE cookie_id = ?", m[1]);
-					res.end(JSON.stringify({message: "OK"}));
+					res.end(JSON.stringify({message:"OK"}));
 				}
 				else {
-					res.end(JSON.stringify({message: "KO"}));
+					res.end(JSON.stringify({message:"KO"}));
 				}
 			}
 		else{
-				res.end(JSON.stringify({message: "KOtech"}));
+				res.end(JSON.stringify({message:"KOtech"}));
 			}
 		
 	});
@@ -386,17 +386,17 @@ exports.login = function (l, p,res) {
 					var c =  r.id.substring(0,3) + Math.floor(Math.random() * 100000000);//TODO stock BDD + new Date().valueOf();
 
 					cookie_update(c, r.id);//MaJ BdD
-					res.writeHead(200, {"Content -Type": "application/json", "Set-Cookie" : 'cookieName='+c});
-					res.end(JSON.stringify({message: "ok"})); // avant modif : res.end(JSON.stringify({message: "ok"}));
+					res.writeHead(200,{"Content -Type":"application/json","Set-Cookie":'cookieName='+c});
+					res.end(JSON.stringify({message:"ok"})); // avant modif : res.end(JSON.stringify({message: "ok"}));
 					}
 
 				else if(r.accountstatue==2){
-					res.end(JSON.stringify({message: "not_allowed"}));
+					res.end(JSON.stringify({message:"not_allowed"}));
 					}
 				}
 					}, function () {
-					res.writeHead(200, {"Content -Type": "application/json", "Set-Cookie" : "null"});
-					res.end(JSON.stringify({message: "ko"}));
+					res.writeHead(200,{"Content -Type":"application/json","Set-Cookie":"null"});
+					res.end(JSON.stringify({message:"ko"}));
 	});
 
 };
@@ -406,8 +406,8 @@ exports.delete_cookie = function (l, res) {
 	
 	db.run("UPDATE test SET cookie_id = ? WHERE cookie_id = ?", "0", m[1]);
 
-	res.writeHead(200, {"Content -Type": "application/json"});
-	res.end(JSON.stringify({message: "logout"}));
+	res.writeHead(200,{"Content -Type":"application/json"});
+	res.end(JSON.stringify({message:"logout"}));
 
 };
 /*++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
@@ -447,7 +447,7 @@ exports.reset_btn = function (l, res){
 	console.log("reset wallet of"+m[1]);
 	db.run("UPDATE test SET money = 10000 WHERE cookie_id = ?", m[1]);
 	db.run("UPDATE test SET nbstock = 0 WHERE cookie_id = ?", m[1]);
-	res.end(JSON.stringify({message: "reset"}));	
+	res.end(JSON.stringify({message:"reset"}));	
 };
 
 exports.get_money = function (l, res) {
@@ -461,7 +461,7 @@ exports.get_money = function (l, res) {
 			res.end(JSON.stringify(r));
 		}
 	}, function () {
-		res.end(JSON.stringify({message: "ko"}));
+		res.end(JSON.stringify({message:"ko"}));
 	});
 };
 /* ======================================================================================================================== */
@@ -479,7 +479,7 @@ exports.get_id = function (l, res) {
 			res.end(JSON.stringify(r));
 		}
 	}, function () {
-		res.end(JSON.stringify({message: "ko"}));
+		res.end(JSON.stringify({message:"ko"}));
 	});
 };
 /* ======================================================================================================================== */
