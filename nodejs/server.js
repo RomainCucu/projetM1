@@ -12,7 +12,7 @@ charts3.fetch_info();
 
 
 var server = {}; //Server object. This object is use to stock everything owned by the server.
-server.r = require("../nodejs/router.js"); server.port = 1337;
+server.r = require("../nodejs/router.js"); server.port = 5000;
 server.address = "127.0.0.1";
 /**
 * This method is called each times a request arrives on the server * @param req (Object) request object for this request
