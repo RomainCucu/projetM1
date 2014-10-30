@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.min.css" />
+	 <script  type="text/javascript"  src="../js/jquery.js"></script>
+	 <script  type="text/javascript"  src="../js/bootstrap.min.js"></script>
+	
+	
+	
+	 
+	  <title>Welcome to Gold Trading</title>
+    
+  </head>
+
+<body style="padding-top: 90px;">
+
+
+       <!-- Bar de menu *************************************************************************************************** -->
+ 		 		<nav class="navbar navbar-default navbar-fixed-top" role="navigation"  >
+ 	   <div class="container" >
+    <!-- Brand and toggle get grouped for better mobile display -->
+    		<div class="navbar-header">
+      			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+       			 <span class="sr-only">Toggle navigation</span>
+        		 <span class="icon-bar"></span>
+       			 <span class="icon-bar"></span>
+        		 <span class="icon-bar"></span>
+      			 </button>
+      			<a class="navbar-brand active" href="accueil.html"><p style="font:15px verdana; color:#000;">G<img src="../images/ausymbol.png" alt="" style="height:30px;"/>LD TRADING</p></a>
+      			  
+    		</div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      			<ul class="nav navbar-nav">
+				
+       			<li><a href="wallet.html">My Wallet</a></li>
+        		<li><a href="chatroom.html">ChatRoom</a></li>
+        		<li><a href="news.html">News</a></li>
+        		
+        		   
+        		<li ><a class="glyphicon glyphicon-envelope" href="messages.html">&nbsp<span class="badge">0</span></a></li>  
+        		<li ><a id="add-admin"></a></li>  
+        		<li><a id="p-heure" style="color:black; font-style: italic"></a></li> 
+      			</ul>
+      
+      			<ul class="nav navbar-nav navbar-right">
+      			
+      			
+        		<li class="dropdown">
+         		<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span id="nom_client"></span> <b class="caret"></b></a>
+          		<ul class="dropdown-menu">
+            	<li><a href="settings.html">Settings</a></li>
+            	<li><a href="contacts.html">Contacts</a></li>
+            
+            	<li class="divider"></li>
+            		<li><a class="p-logout" >Logout</a></li>
+          		</ul>
+        		</li>
+      			</ul>
+    	    </div><!-- /.navbar-collapse -->
+  		</div><!-- /.container-fluid -->
+		</nav>
+	<!-- fin menu *********************************************************************************************************  -->
+
+		<!-- Nav tabs -->
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#eleve" data-toggle="tab">Elèves</a></li>
+  <li><a href="#encadrant" data-toggle="tab">Encadrant</a></li>
+
+</ul>
+
+<!-- Tab panes -->
+<div class="tab-content">
+
+  <div class="tab-pane active" id="eleve">
+<div class="col-md-offset-3 col-md-6 ">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+        <div class="active item">
+<img src="../images/carousel-contact/alex.jpg" alt="..." class="img-rounded">
+      
+            <div class="carousel-caption">
+              <h3>Alexandre MAGNE</h3>
+              <p>Elève ingénieur de M1</p>
+            </div>
+        </div>
+        <div class="item">
+<img src="../images/carousel-contact/rom.jpg" alt="..." class="img-rounded">
+                  <div class="carousel-caption">
+              <h3>Romain CUNAULT</h3>
+              <p>Elève ingénieur de M1</p>
+            </div>
+        </div>
+        <div class="item">
+<img src="../images/carousel-contact/pag.jpg" alt="..." class="img-rounded">
+                  <div class="carousel-caption">
+              <h3>Pierre-Antoine GRIGNON</h3>
+              <p>Elève ingénieur de M1</p>
+            </div>
+        </div>
+    </div>
+  
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+  </div>
+  </div>
+  
+  
+  <div class="tab-pane" id="encadrant">
+  <div class="col-md-offset-3 col-md-6 ">
+  <img src="../images/max.jpg"> 
+   <div class="carousel-caption">
+              <h3>Maxime ROBIN</h3>
+              <p>Encadrant Ingénieur à l'ESME Sudria</p>
+            </div>
+  </div>
+  
+  </div>
+  
+</div>
+
+
+
+	
+			
+
+
+
+	<div class="row">
+  		<div class="col-md-2 col-md-offset-10"><a href="accueil.html">Back to the Home Page</a></div>
+	</div>
+	
+
+
+
+    		
+        
+</body>
+</html>

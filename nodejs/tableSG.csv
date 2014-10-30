@@ -1,0 +1,725 @@
+<!DOCTYPE html><html><head><script>(function(){(function(){function e(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(e){}};this.tick("start",null,a)}var a;window.performance&&(a=window.performance.timing);var f=a?new e(a.responseStart):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart,d=a.responseStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_",
+"_wtsrt",d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})();})();
+</script><title>Societe Generale SA: EPA:GLE quotes & news - Google Finance</title><meta name="Description" content="Get detailed financial information on Societe Generale SA (EPA:GLE) including real-time stock quotes, historical charts & financial news, all for free!"><meta http-equiv="X-UA-Compatible" content="IE=10"><link rel="canonical" href="http://www.google.com/finance?cid=673457"><link rel="stylesheet" type="text/css" href="/finance/f/finance_us-3578168175.css"><link rel="stylesheet" type="text/css" href="/finance/_/ss/a/ver=1rfoblf25stm8/am=!gly3Zx38QovgNqhW/bf=/r=O"><link rel="icon" type="image/vnd.microsoft.icon" href="/finance/favicon.ico"><style>#gb{font:13px/27px Arial,sans-serif;height:30px}#gbz,#gbg{position:absolute;white-space:nowrap;top:0;height:30px;z-index:1000}#gbz{left:0;padding-left:4px}#gbg{right:0;padding-right:5px}#gbs{background:transparent;position:absolute;top:-999px;visibility:hidden;z-index:998;right:0}.gbto #gbs{background:#fff}#gbx3,#gbx4{background-color:#2d2d2d;background-image:none;_background-image:none;background-position:0 -138px;background-repeat:repeat-x;border-bottom:1px solid #000;font-size:24px;height:29px;_height:30px;opacity:1;filter:alpha(opacity=100);position:absolute;top:0;width:100%;z-index:990}#gbx3{left:0}#gbx4{right:0}#gbb{position:relative}#gbbw{left:0;position:absolute;top:30px;width:100%}.gbtcb{position:absolute;visibility:hidden}#gbz .gbtcb{right:0}#gbg .gbtcb{left:0}.gbxx{display:none !important}.gbxo{opacity:0 !important;filter:alpha(opacity=0) !important}.gbm{position:absolute;z-index:999;top:-999px;visibility:hidden;text-align:left;border:1px solid #bebebe;background:#fff;-moz-box-shadow:-1px 1px 1px rgba(0,0,0,.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,.2);box-shadow:0 2px 4px rgba(0,0,0,.2)}.gbrtl .gbm{-moz-box-shadow:1px 1px 1px rgba(0,0,0,.2)}.gbto .gbm,.gbto #gbs{top:29px;visibility:visible}#gbz .gbm{left:0}#gbg .gbm{right:0}.gbxms{background-color:#ccc;display:block;position:absolute;z-index:1;top:-1px;left:-2px;right:-2px;bottom:-2px;opacity:.4;-moz-border-radius:3px;filter:progid:DXImageTransform.Microsoft.Blur(pixelradius=5);*opacity:1;*top:-2px;*left:-5px;*right:5px;*bottom:4px;-ms-filter:"progid:DXImageTransform.Microsoft.Blur(pixelradius=5)";opacity:1\0/;top:-4px\0/;left:-6px\0/;right:5px\0/;bottom:4px\0/}.gbma{position:relative;top:-1px;border-style:solid dashed dashed;border-color:transparent;border-top-color:#c0c0c0;display:-moz-inline-box;display:inline-block;font-size:0;height:0;line-height:0;width:0;border-width:3px 3px 0;padding-top:1px;left:4px}#gbztms1,#gbi4m1,#gbi4s,#gbi4t{zoom:1}.gbtc,.gbmc,.gbmcc{display:block;list-style:none;margin:0;padding:0}.gbmc{background:#fff;padding:10px 0;position:relative;z-index:2;zoom:1}.gbt{position:relative;display:-moz-inline-box;display:inline-block;line-height:27px;padding:0;vertical-align:top}.gbt{*display:inline}.gbto{box-shadow:0 2px 4px rgba(0,0,0,.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,.2)}.gbzt,.gbgt{cursor:pointer;display:block;text-decoration:none !important}span#gbg6,span#gbg4{cursor:default}.gbts{border-left:1px solid transparent;border-right:1px solid transparent;display:block;*display:inline-block;padding:0 5px;position:relative;z-index:1000}.gbts{*display:inline}.gbzt .gbts{display:inline;zoom:1}.gbto .gbts{background:#fff;border-color:#bebebe;color:#36c;padding-bottom:1px;padding-top:2px}.gbz0l .gbts{color:#fff;font-weight:bold}.gbtsa{padding-right:9px}#gbz .gbzt,#gbz .gbgt,#gbg .gbgt{color:#ccc!important}.gbtb2{display:block;border-top:2px solid transparent}.gbto .gbzt .gbtb2,.gbto .gbgt .gbtb2{border-top-width:0}.gbtb .gbts{background:url(//ssl.gstatic.com/gb/images/b_8d5afc09.png);_background:url(//ssl.gstatic.com/gb/images/b8_3615d64d.png);background-position:-27px -22px;border:0;font-size:0;padding:29px 0 0;*padding:27px 0 0;width:1px}.gbzt:hover,.gbzt:focus,.gbgt-hvr,.gbgt:focus{background-color:#4c4c4c;background-image:none;_background-image:none;background-position:0 -102px;background-repeat:repeat-x;outline:none;text-decoration:none !important}.gbpdjs .gbto .gbm{min-width:99%}.gbz0l .gbtb2{border-top-color:#dd4b39!important}#gbi4s,#gbi4s1{font-weight:bold}#gbg6.gbgt-hvr,#gbg6.gbgt:focus{background-color:transparent;background-image:none}.gbg4a{font-size:0;line-height:0}.gbg4a .gbts{padding:27px 5px 0;*padding:25px 5px 0}.gbto .gbg4a .gbts{padding:29px 5px 1px;*padding:27px 5px 1px}#gbi4i,#gbi4id{left:5px;border:0;height:24px;position:absolute;top:1px;width:24px}.gbto #gbi4i,.gbto #gbi4id{top:3px}.gbi4p{display:block;width:24px}#gbi4id{background-position:-44px -101px}#gbmpid{background-position:0 0}#gbmpi,#gbmpid{border:none;display:inline-block;height:48px;width:48px}#gbmpiw{display:inline-block;line-height:9px;padding-left:20px;margin-top:10px;position:relative}#gbmpi,#gbmpid,#gbmpiw{*display:inline}#gbg5{font-size:0}#gbgs5{padding:5px !important}.gbto #gbgs5{padding:7px 5px 6px !important}#gbi5{background:url(//ssl.gstatic.com/gb/images/b_8d5afc09.png);_background:url(//ssl.gstatic.com/gb/images/b8_3615d64d.png);background-position:0 0;display:block;font-size:0;height:17px;width:16px}.gbto #gbi5{background-position:-6px -22px}.gbn .gbmt,.gbn .gbmt:visited,.gbnd .gbmt,.gbnd .gbmt:visited{color:#dd8e27 !important}.gbf .gbmt,.gbf .gbmt:visited{color:#900 !important}.gbmt,.gbml1,.gbmlb,.gbmt:visited,.gbml1:visited,.gbmlb:visited{color:#36c !important;text-decoration:none !important}.gbmt,.gbmt:visited{display:block}.gbml1,.gbmlb,.gbml1:visited,.gbmlb:visited{display:inline-block;margin:0 10px}.gbml1,.gbmlb,.gbml1:visited,.gbmlb:visited{*display:inline}.gbml1,.gbml1:visited{padding:0 10px}.gbml1-hvr,.gbml1:focus{outline:none;text-decoration:underline !important}#gbpm .gbml1{display:inline;margin:0;padding:0;white-space:nowrap}.gbmlb,.gbmlb:visited{line-height:27px}.gbmlb-hvr,.gbmlb:focus{outline:none;text-decoration:underline !important}.gbmlbw{color:#ccc;margin:0 10px}.gbmt{padding:0 20px}.gbmt:hover,.gbmt:focus{background:#eee;cursor:pointer;outline:0 solid black;text-decoration:none !important}.gbm0l,.gbm0l:visited{color:#000 !important;font-weight:bold}.gbmh{border-top:1px solid #bebebe;font-size:0;margin:10px 0}#gbd4 .gbmc{background:#f5f5f5;padding-top:0}#gbd4 .gbsbic::-webkit-scrollbar-track:vertical{background-color:#f5f5f5;margin-top:2px}#gbmpdv{background:#fff;border-bottom:1px solid #bebebe;-moz-box-shadow:0 2px 4px rgba(0,0,0,.12);-o-box-shadow:0 2px 4px rgba(0,0,0,.12);-webkit-box-shadow:0 2px 4px rgba(0,0,0,.12);box-shadow:0 2px 4px rgba(0,0,0,.12);position:relative;z-index:1}#gbd4 .gbmh{margin:0}.gbmtc{padding:0;margin:0;line-height:27px}.GBMCC:last-child:after,#GBMPAL:last-child:after{content:'\0A\0A';white-space:pre;position:absolute}#gbmps{*zoom:1}#gbd4 .gbpc,#gbmpas .gbmt{line-height:17px}#gbd4 .gbpgs .gbmtc{line-height:27px}#gbd4 .gbmtc{border-bottom:1px solid #bebebe}#gbd4 .gbpc{display:inline-block;margin:16px 0 10px;padding-right:50px;vertical-align:top}#gbd4 .gbpc{*display:inline}.gbpc .gbps,.gbpc .gbps2{display:block;margin:0 20px}#gbmplp.gbps{margin:0 10px}.gbpc .gbps{color:#000;font-weight:bold}.gbpc .gbpd{margin-bottom:5px}.gbpd .gbmt,.gbpd .gbps{color:#666 !important}.gbpd .gbmt{opacity:.4;filter:alpha(opacity=40)}.gbps2{color:#666;display:block}.gbp0{display:none}.gbp0 .gbps2{font-weight:bold}#gbd4 .gbmcc{margin-top:5px}.gbpmc{background:#fef9db}.gbpmc .gbpmtc{padding:10px 20px}#gbpm{border:0;*border-collapse:collapse;border-spacing:0;margin:0;white-space:normal}#gbpm .gbpmtc{border-top:none;color:#000 !important;font:11px Arial,sans-serif}#gbpms{*white-space:nowrap}.gbpms2{font-weight:bold;white-space:nowrap}#gbmpal{*border-collapse:collapse;border-spacing:0;border:0;margin:0;white-space:nowrap;width:100%}.gbmpala,.gbmpalb{font:13px Arial,sans-serif;line-height:27px;padding:10px 20px 0;white-space:nowrap}.gbmpala{padding-left:0;text-align:left}.gbmpalb{padding-right:0;text-align:right}#gbmpasb .gbps{color:#000}#gbmpal .gbqfbb{margin:0 20px}.gbp0 .gbps{*display:inline}a.gbiba{margin:8px 20px 10px}.gbmpiaw{display:inline-block;padding-right:10px;margin-bottom:6px;margin-top:10px}.gbxv{visibility:hidden}.gbmpiaa{display:block;margin-top:10px}.gbmpia{border:none;display:block;height:48px;width:48px}.gbmpnw{display:inline-block;height:auto;margin:10px 0;vertical-align:top}.gbqfb,.gbqfba,.gbqfbb{-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;cursor:default !important;display:inline-block;font-weight:bold;height:29px;line-height:29px;min-width:54px;*min-width:70px;padding:0 8px;text-align:center;text-decoration:none !important;-moz-user-select:none;-webkit-user-select:none}.gbqfb:focus,.gbqfba:focus,.gbqfbb:focus{border:1px solid #4d90fe;-moz-box-shadow:inset 0 0 0 1px rgba(255, 255, 255, 0.5);-webkit-box-shadow:inset 0 0 0 1px rgba(255, 255, 255, 0.5);box-shadow:inset 0 0 0 1px rgba(255, 255, 255, 0.5);outline:none}.gbqfb-hvr:focus,.gbqfba-hvr:focus,.gbqfbb-hvr:focus{-webkit-box-shadow:inset 0 0 0 1px #fff,0 1px 1px rgba(0,0,0,.1);-moz-box-shadow:inset 0 0 0 1px #fff,0 1px 1px rgba(0,0,0,.1);box-shadow:inset 0 0 0 1px #fff,0 1px 1px rgba(0,0,0,.1)}.gbqfb-no-focus:focus{border:1px solid #3079ed;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none}.gbqfb-hvr,.gbqfba-hvr,.gbqfbb-hvr{-webkit-box-shadow:0 1px 1px rgba(0,0,0,.1);-moz-box-shadow:0 1px 1px rgba(0,0,0,.1);box-shadow:0 1px 1px rgba(0,0,0,.1)}.gbqfb::-moz-focus-inner,.gbqfba::-moz-focus-inner,.gbqfbb::-moz-focus-inner{border:0}.gbqfba,.gbqfbb{border:1px solid #dcdcdc;border-color:rgba(0,0,0,.1);color:#444 !important;font-size:11px}.gbqfb{background-color:#4d90fe;background-image:-webkit-gradient(linear,left top,left bottom,from(#4d90fe),to(#4787ed));background-image:-webkit-linear-gradient(top,#4d90fe,#4787ed);background-image:-moz-linear-gradient(top,#4d90fe,#4787ed);background-image:-ms-linear-gradient(top,#4d90fe,#4787ed);background-image:-o-linear-gradient(top,#4d90fe,#4787ed);background-image:linear-gradient(top,#4d90fe,#4787ed);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#4d90fe',EndColorStr='#4787ed');border:1px solid #3079ed;color:#fff!important;margin:0 0}.gbqfb-hvr{border-color:#2f5bb7}.gbqfb-hvr:focus{border-color:#2f5bb7}.gbqfb-hvr,.gbqfb-hvr:focus{background-color:#357ae8;background-image:-webkit-gradient(linear,left top,left bottom,from(#4d90fe),to(#357ae8));background-image:-webkit-linear-gradient(top,#4d90fe,#357ae8);background-image:-moz-linear-gradient(top,#4d90fe,#357ae8);background-image:-ms-linear-gradient(top,#4d90fe,#357ae8);background-image:-o-linear-gradient(top,#4d90fe,#357ae8);background-image:linear-gradient(top,#4d90fe,#357ae8)}.gbqfb:active{background-color:inherit;-webkit-box-shadow:inset 0 1px 2px rgba(0, 0, 0, 0.3);-moz-box-shadow:inset 0 1px 2px rgba(0, 0, 0, 0.3);box-shadow:inset 0 1px 2px rgba(0, 0, 0, 0.3)}.gbqfba{background-color:#f5f5f5;background-image:-webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#f1f1f1));background-image:-webkit-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-moz-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-ms-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-o-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:linear-gradient(top,#f5f5f5,#f1f1f1);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#f5f5f5',EndColorStr='#f1f1f1')}.gbqfba-hvr,.gbqfba-hvr:active{background-color:#f8f8f8;background-image:-webkit-gradient(linear,left top,left bottom,from(#f8f8f8),to(#f1f1f1));background-image:-webkit-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-moz-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-ms-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-o-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:linear-gradient(top,#f8f8f8,#f1f1f1);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#f8f8f8',EndColorStr='#f1f1f1')}.gbqfbb{background-color:#fff;background-image:-webkit-gradient(linear,left top,left bottom,from(#fff),to(#fbfbfb));background-image:-webkit-linear-gradient(top,#fff,#fbfbfb);background-image:-moz-linear-gradient(top,#fff,#fbfbfb);background-image:-ms-linear-gradient(top,#fff,#fbfbfb);background-image:-o-linear-gradient(top,#fff,#fbfbfb);background-image:linear-gradient(top,#fff,#fbfbfb);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#ffffff',EndColorStr='#fbfbfb')}.gbqfbb-hvr,.gbqfbb-hvr:active{background-color:#fff;background-image:-webkit-gradient(linear,left top,left bottom,from(#fff),to(#f8f8f8));background-image:-webkit-linear-gradient(top,#fff,#f8f8f8);background-image:-moz-linear-gradient(top,#fff,#f8f8f8);background-image:-ms-linear-gradient(top,#fff,#f8f8f8);background-image:-o-linear-gradient(top,#fff,#f8f8f8);background-image:linear-gradient(top,#fff,#f8f8f8);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#ffffff',EndColorStr='#f8f8f8')}.gbqfba-hvr,.gbqfba-hvr:active,.gbqfbb-hvr,.gbqfbb-hvr:active{border-color:#c6c6c6;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.1);-moz-box-shadow:0 1px 1px rgba(0,0,0,.1);box-shadow:0 1px 1px rgba(0,0,0,.1);color:#222 !important}.gbqfba:active,.gbqfbb:active{-webkit-box-shadow:inset 0 1px 2px rgba(0,0,0,.1);-moz-box-shadow:inset 0 1px 2px rgba(0,0,0,.1);box-shadow:inset 0 1px 2px rgba(0,0,0,.1)}#gbmpas{max-height:220px}#gbmm{max-height:530px}.gbsb{-webkit-box-sizing:border-box;display:block;position:relative;*zoom:1}.gbsbic{overflow:auto}.gbsbis .gbsbt,.gbsbis .gbsbb{-webkit-mask-box-image:-webkit-gradient(linear,left top,right top,color-stop(0,rgba(0,0,0,.1)),color-stop(.5,rgba(0,0,0,.8)),color-stop(1,rgba(0,0,0,.1)));left:0;margin-right:0;opacity:0;position:absolute;width:100%}.gbsb .gbsbt:after,.gbsb .gbsbb:after{content:"";display:block;height:0;left:0;position:absolute;width:100%}.gbsbis .gbsbt{background:-webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.2)),to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-moz-linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-ms-linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-o-linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));height:6px;top:0}.gbsb .gbsbt:after{border-top:1px solid #ebebeb;border-color:rgba(0,0,0,.3);top:0}.gbsb .gbsbb{-webkit-mask-box-image:-webkit-gradient(linear,left top,right top,color-stop(0,rgba(0,0,0,.1)),color-stop(.5,rgba(0,0,0,.8)),color-stop(1,rgba(0,0,0,.1)));background:-webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.2)),to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-moz-linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-ms-linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-o-linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));bottom:0;height:4px}.gbsb .gbsbb:after{border-bottom:1px solid #ebebeb;border-color:rgba(0,0,0,.3);bottom:0}</style><script>(function(){try{var e=this;var aa=function(a,b,c,d){d=d||{};d._sn=["cfg",b,c].join(".");window.gbar.logger.ml(a,d)};var h=window.gbar=window.gbar||{},k=window.gbar.i=window.gbar.i||{},ba;function _tvn(a,b){var c=parseInt(a,10);return isNaN(c)?b:c}function _tvf(a,b){var c=parseFloat(a);return isNaN(c)?b:c}function _tvv(a){return!!a}function p(a,b,c){(c||h)[a]=b}h.bv={n:_tvn("2",0),r:"",f:".66.41.",e:"0",m:_tvn("1",1)};
+function ca(a,b,c){var d="on"+b;if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(d,c);else{var f=a[d];a[d]=function(){var a=f.apply(this,arguments),b=c.apply(this,arguments);return void 0==a?b:void 0==b?a:b&&a}}}var da=function(a){return function(){return h.bv.m==a}},ea=da(1),fa=da(2);p("sb",ea);p("kn",fa);k.a=_tvv;k.b=_tvf;k.c=_tvn;k.i=aa;var q=window.gbar.i.i;var r=function(){},t=function(){},u=function(a){var b=new Image,c=ga;b.onerror=b.onload=b.onabort=function(){try{delete ha[c]}catch(a){}};ha[c]=b;b.src=a;ga=c+1},ha=[],ga=0;p("logger",{il:t,ml:r,log:u});var v=window.gbar.logger;var w={},ia={},x=[],ja=k.b("0.1",.1),ka=k.a("1",!0),la=function(a,b){x.push([a,b])},ma=function(a,b){w[a]=b},na=function(a){return a in w},y={},z=function(a,b){y[a]||(y[a]=[]);y[a].push(b)},A=function(a){z("m",a)},B=function(a,b){var c=document.createElement("script");c.src=a;c.async=ka;Math.random()<ja&&(c.onerror=function(){c.onerror=null;r(Error("Bundle load failed: name="+(b||"UNK")+" url="+a))});(document.getElementById("xjsc")||document.getElementsByTagName("body")[0]||
+document.getElementsByTagName("head")[0]).appendChild(c)},F=function(a){for(var b=0,c;(c=x[b])&&c[0]!=a;++b);!c||c[1].l||c[1].s||(c[1].s=!0,D(2,a),c[1].url&&B(c[1].url,a),c[1].libs&&E&&E(c[1].libs))},oa=function(a){z("gc",a)},G=null,pa=function(a){G=a},D=function(a,b,c){if(G){a={t:a,b:b};if(c)for(var d in c)a[d]=c[d];try{G(a)}catch(f){}}};p("mdc",w);p("mdi",ia);p("bnc",x);p("qGC",oa);p("qm",A);p("qd",y);p("lb",F);p("mcf",ma);p("bcf",la);p("aq",z);p("mdd","");p("has",na);
+p("trh",pa);p("tev",D);if(k.a("1")){var H=k.a("1"),qa=k.a(""),ra=k.a(""),sa=window.gapi={},ta=function(a,b){var c=function(){h.dgl(a,b)};H?A(c):(z("gl",c),F("gl"))},ua={},va=function(a){a=a.split(":");for(var b;(b=a.pop())&&ua[b];);return!b},E=function(a){function b(){for(var b=a.split(":"),d=0,f;f=b[d];++d)ua[f]=1;for(b=0;d=x[b];++b)d=d[1],(f=d.libs)&&!d.l&&d.i&&va(f)&&d.i()}h.dgl(a,b)},I=window.___jsl={};I.h="m;/_/scs/abc-static/_/js/k=gapi.gapi.en.3_mJ9Wvc9FU.O/m=__features__/rt=j/d=1/rs=AItRSTPLYqq5loOR9078NjrWstRw2XtJlg";I.ms="https://apis.google.com";
+I.m="";I.l=[];H||x.push(["gl",{url:"//ssl.gstatic.com/gb/js/abc/glm_e7bb39a7e1a24581ff4f8d199678b1b9.js"}]);var wa={pu:qa,sh:"",si:ra,hl:"en"};w.gl=wa;p("load",ta,sa);p("dgl",ta);p("agl",va);k.o=H};var xa=k.b("0.1",.001),ya=0;
+function _mlToken(a,b){try{if(1>ya){ya++;var c,d=a,f=b||{},g=encodeURIComponent,l=["//www.google.com/gen_204?atyp=i&zx=",(new Date).getTime(),"&jexpid=",g("28834"),"&srcpg=",g("prop=27"),"&jsr=",Math.round(1/xa),"&ogev=",g("OClSVIq1C6fXyQOIzIHYCg"),"&ogf=",h.bv.f,"&ogrp=",g(""),"&ogv=",g("1414462915.0"),"&oggv="+g("es_plusone_gc_20141016.0_p0"),"&ogd=",g("com"),"&ogc=",g("FRA"),"&ogl=",g("en")];f._sn&&(f._sn=
+"og."+f._sn);for(var m in f)l.push("&"),l.push(g(m)),l.push("="),l.push(g(f[m]));l.push("&emsg=");l.push(g(d.name+":"+d.message));var n=l.join("");za(n)&&(n=n.substr(0,2E3));c=n;var s=window.gbar.logger._aem(a,c);u(s)}}catch(C){}}var za=function(a){return 2E3<=a.length},Ca=function(a,b){return b};function Fa(a){r=a;p("_itl",za,v);p("_aem",Ca,v);p("ml",r,v);a={};w.er=a}k.a("")?Fa(function(a){throw a;}):k.a("1")&&Math.random()<xa&&Fa(_mlToken);var _E="left",Ga=k.a(""),K=function(a,b){var c=a.className;J(a,b)||(a.className+=(""!=c?" ":"")+b)},L=function(a,b){var c=a.className,d=new RegExp("\\s?\\b"+b+"\\b");c&&c.match(d)&&(a.className=c.replace(d,""))},J=function(a,b){var c=new RegExp("\\b"+b+"\\b"),d=a.className;return!(!d||!d.match(c))},Ha=function(a,b){J(a,b)?L(a,b):K(a,b)},Ia=function(a,b){a[b]=function(c){var d=arguments;h.qm(function(){a[b].apply(this,d)})}},Ja=function(a){a=["//www.gstatic.com",
+"/og/_/js/d=1/k=","og.og.en_US.2-LL_G3JFi0.O","/rt=j/m=",a,"/rs=","AItRSTMnGhfxzAlzmYGkBF4lo9pEW9t5Ig"];Ga&&a.push("?host=www.gstatic.com&bust=og.og.en_US.BIgQCVkAyE8.DU");a=a.join("");B(a)};p("ca",K);p("cr",L);p("cc",J);k.k=K;k.l=L;k.m=J;k.n=Ha;k.p=Ja;k.q=Ia;var Ka=["gb_71","gb_155"],M;function La(a){M=a}function Ma(a){var b=M&&!a.href.match(/.*\/accounts\/ClearSID[?]/)&&encodeURIComponent(M());b&&(a.href=a.href.replace(/([?&]continue=)[^&]*/,"$1"+b))}function Na(a){window.gApplication&&(a.href=window.gApplication.getTabUrl(a.href))}function Oa(a){try{var b=(document.forms[0].q||"").value;b&&(a.href=a.href.replace(/([?&])q=[^&]*|$/,function(a,c){return(c||"&")+"q="+encodeURIComponent(b)}))}catch(c){q(c,"sb","pq")}}
+var Pa=function(){for(var a=[],b=0,c;c=Ka[b];++b)(c=document.getElementById(c))&&a.push(c);return a},Qa=function(){var a=Pa();return 0<a.length?a[0]:null},Ra=function(){return document.getElementById("gb_70")},N={},O={},Sa={},P={},Q=void 0,Xa=function(a,b){try{var c=document.getElementById("gb");K(c,"gbpdjs");R();Ta(document.getElementById("gb"))&&K(c,"gbrtl");if(b&&b.getAttribute){var d=b.getAttribute("aria-owns");if(d.length){var f=document.getElementById(d);if(f){var g=b.parentNode;if(Q==d)Q=void 0,
+L(g,"gbto");else{if(Q){var l=document.getElementById(Q);if(l&&l.getAttribute){var m=l.getAttribute("aria-owner");if(m.length){var n=document.getElementById(m);n&&n.parentNode&&L(n.parentNode,"gbto")}}}Ua(f)&&Va(f);Q=d;K(g,"gbto")}}}}A(function(){h.tg(a,b,!0)});Wa(a)}catch(s){q(s,"sb","tg")}},Ya=function(a){A(function(){h.close(a)})},Za=function(a){A(function(){h.rdd(a)})},Ta=function(a){var b,c=document.defaultView;c&&c.getComputedStyle?(a=c.getComputedStyle(a,""))&&(b=a.direction):b=a.currentStyle?
+a.currentStyle.direction:a.style.direction;return"rtl"==b},ab=function(a,b,c){if(a)try{var d=document.getElementById("gbd5");if(d){var f=d.firstChild,g=f.firstChild,l=document.createElement("li");l.className=b+" gbmtc";l.id=c;a.className="gbmt";l.appendChild(a);if(g.hasChildNodes()){c=[["gbkc"],["gbf","gbe","gbn"],["gbkp"],["gbnd"]];for(var d=0,m=g.childNodes.length,f=!1,n=-1,s=0,C;C=c[s];s++){for(var Aa=0,Z;Z=C[Aa];Aa++){for(;d<m&&J(g.childNodes[d],Z);)d++;if(Z==b){g.insertBefore(l,g.childNodes[d]||
+null);f=!0;break}}if(f){if(d+1<g.childNodes.length){var Ba=g.childNodes[d+1];J(Ba.firstChild,"gbmh")||$a(Ba,C)||(n=d+1)}else if(0<=d-1){var Da=g.childNodes[d-1];J(Da.firstChild,"gbmh")||$a(Da,C)||(n=d)}break}0<d&&d+1<m&&d++}if(0<=n){var $=document.createElement("li"),Ea=document.createElement("div");$.className="gbmtc";Ea.className="gbmt gbmh";$.appendChild(Ea);g.insertBefore($,g.childNodes[n])}h.addHover&&h.addHover(a)}else g.appendChild(l)}}catch(yb){q(yb,"sb","al")}},$a=function(a,b){for(var c=
+b.length,d=0;d<c;d++)if(J(a,b[d]))return!0;return!1},bb=function(a,b,c){ab(a,b,c)},cb=function(a,b){ab(a,"gbe",b)},db=function(){A(function(){h.pcm&&h.pcm()})},eb=function(){A(function(){h.pca&&h.pca()})},fb=function(a,b,c,d,f,g,l,m,n,s){A(function(){h.paa&&h.paa(a,b,c,d,f,g,l,m,n,s)})},gb=function(a,b){N[a]||(N[a]=[]);N[a].push(b)},hb=function(a,b){O[a]||(O[a]=[]);O[a].push(b)},ib=function(a,b){Sa[a]=b},jb=function(a,b){P[a]||(P[a]=[]);P[a].push(b)},Wa=function(a){a.preventDefault&&a.preventDefault();
+a.returnValue=!1;a.cancelBubble=!0},kb=null,Va=function(a,b){R();if(a){lb(a,"Opening&hellip;");S(a,!0);var c="undefined"!=typeof b?b:1E4,d=function(){mb(a)};kb=window.setTimeout(d,c)}},nb=function(a){R();a&&(S(a,!1),lb(a,""))},mb=function(a){try{R();var b=a||document.getElementById(Q);b&&(lb(b,"This service is currently unavailable.%1$sPlease try again later.","%1$s"),S(b,!0))}catch(c){q(c,"sb","sdhe")}},lb=function(a,b,c){if(a&&b){var d=Ua(a);if(d){if(c){d.innerHTML="";b=b.split(c);c=0;for(var f;f=b[c];c++){var g=document.createElement("div");
+g.innerHTML=f;d.appendChild(g)}}else d.innerHTML=b;S(a,!0)}}},S=function(a,b){var c=void 0!==b?b:!0;c?K(a,"gbmsgo"):L(a,"gbmsgo")},Ua=function(a){for(var b=0,c;c=a.childNodes[b];b++)if(J(c,"gbmsg"))return c},R=function(){kb&&window.clearTimeout(kb)},ob=function(a){var b="inner"+a;a="offset"+a;return window[b]?window[b]:document.documentElement&&document.documentElement[a]?document.documentElement[a]:0},pb=function(){return!1},qb=function(){return!!Q};p("so",Qa);p("sos",Pa);p("si",Ra);p("tg",Xa);
+p("close",Ya);p("rdd",Za);p("addLink",bb);p("addExtraLink",cb);p("pcm",db);p("pca",eb);p("paa",fb);p("ddld",Va);p("ddrd",nb);p("dderr",mb);p("rtl",Ta);p("op",qb);p("bh",N);p("abh",gb);p("dh",O);p("adh",hb);p("ch",P);p("ach",jb);p("eh",Sa);p("aeh",ib);ba=k.a("")?Na:Oa;p("qs",ba);p("setContinueCb",La);p("pc",Ma);p("bsy",pb);k.d=Wa;k.j=ob;var rb={};w.base=rb;x.push(["m",{url:"//ssl.gstatic.com/gb/js/sem_71341cab0e8b0ec4335e0f4906380a56.js"}]);h.sg={c:""};p("wg",{rg:{}});var sb={tiw:k.c("15000",0),tie:k.c("30000",0)};w.wg=sb;var tb={thi:k.c("10000",0),thp:k.c("180000",0),tho:k.c("5000",0),tet:k.b("0.5",0)};w.wm=tb;if(k.a("1")){var ub=k.a("");x.push(["gc",{auto:ub,url:"//ssl.gstatic.com/gb/js/abc/gci_91f30755d6a6b787dcc2a4062e6e9824.js",libs:"googleapis.client:plusone:gapi.iframes"}]);var vb={version:"gci_91f30755d6a6b787dcc2a4062e6e9824.js",index:"",lang:"en"};w.gc=vb;var wb=function(a){window.googleapis&&window.iframes?a&&a():(a&&oa(a),F("gc"))};p("lGC",wb);k.a("1")&&p("lPWF",wb)};window.__PVT="";if(k.a("1")&&k.a("1")){var xb=function(a){wb(function(){z("pw",a);F("pw")})};p("lPW",xb);x.push(["pw",{url:"//ssl.gstatic.com/gb/js/abc/pwm_45f73e4df07a0e388b0fa1f3d30e7280.js"}]);var zb=[],Ab=function(a){zb[0]=a},Bb=function(a,b){var c=b||{};c._sn="pw";r(a,c)},Cb={signed:zb,elog:Bb,base:"https://plusone.google.com/u/0",loadTime:(new Date).getTime()};w.pw=Cb;var Db=function(a,b){for(var c=b.split("."),d=function(){var b=arguments;a(function(){for(var a=h,d=0,f=c.length-1;d<f;++d)a=a[c[d]];a[c[d]].apply(a,b)})},f=h,g=0,l=c.length-1;g<
+l;++g)f=f[c[g]]=f[c[g]]||{};return f[c[g]]=d};Db(xb,"pw.clk");Db(xb,"pw.hvr");p("su",Ab,h.pw)};var Eb=[1,2,3,4,5,6,9,10,11,13,14,28,29,30,34,35,37,38,39,40,41,42,43,48,49,500];var Fb=k.b("0.001",1E-4),Gb=k.b("1",1),Hb=!1,Ib=!1;if(k.a("1")){var Jb=Math.random();Jb<=Fb&&(Hb=!0);Jb<=Gb&&(Ib=!0)}var T=null;function Kb(){var a=0,b=function(b,d){k.a(d)&&(a|=b)};b(1,"");b(2,"");b(4,"");b(8,"");return a}
+function Lb(a,b){var c=Fb,d=Hb,f;f=a;if(!T){T={};for(var g=0;g<Eb.length;g++){var l=Eb[g];T[l]=!0}}if(f=!!T[f])c=Gb,d=Ib;if(d){d=encodeURIComponent;h.rp?(f=h.rp(),f="-1"!=f?f:""):f="";c=["//www.google.com/gen_204?atyp=i&zx=",(new Date).getTime(),"&oge=",a,"&ogex=",d("28834"),"&ogev=",d("OClSVIq1C6fXyQOIzIHYCg"),"&ogf=",h.bv.f,"&ogp=",d("27"),"&ogrp=",d(f),"&ogsr=",Math.round(1/c),"&ogv=",d("1414462915.0"),"&oggv="+
+d("es_plusone_gc_20141016.0_p0"),"&ogd=",d("com"),"&ogl=",d("en"),"&ogc=",d("FRA"),"&ogus=",Kb()];if(b){"ogw"in b&&(c.push("&ogw="+b.ogw),delete b.ogw);var m;f=b;g=[];for(m in f)0!=g.length&&g.push(","),g.push(Mb(m)),g.push("."),g.push(Mb(f[m]));m=g.join("");""!=m&&(c.push("&ogad="),c.push(d(m)))}u(c.join(""))}}function Mb(a){"number"==typeof a&&(a+="");return"string"==typeof a?a.replace(".","%2E").replace(",","%2C"):a}t=Lb;p("il",t,v);var Nb={};w.il=Nb;var Ob=function(a,b,c,d,f,g,l,m,n,s){A(function(){h.paa(a,b,c,d,f,g,l,m,n,s)})},Pb=function(){A(function(){h.prm()})},Qb=function(a){A(function(){h.spn(a)})},Rb=function(a){A(function(){h.sps(a)})},Sb=function(a){A(function(){h.spp(a)})},Tb={"27":"//ssl.gstatic.com/gb/images/silhouette_24.png","27":"//ssl.gstatic.com/gb/images/silhouette_24.png","27":"//ssl.gstatic.com/gb/images/silhouette_24.png"},Ub=function(a){return(a=Tb[a])||"//ssl.gstatic.com/gb/images/silhouette_24.png"},
+Vb=function(){A(function(){h.spd()})};p("spn",Qb);p("spp",Sb);p("sps",Rb);p("spd",Vb);p("paa",Ob);p("prm",Pb);gb("gbd4",Pb);
+if(k.a("")){var Wb={d:k.a(""),e:"",sanw:k.a(""),p:"//ssl.gstatic.com/gb/images/silhouette_96.png",cp:"1",xp:k.a("1"),mg:"%1$s (delegated)",md:"%1$s (default)",mh:"220",s:"1",pp:Ub,ppl:k.a(""),ppa:k.a(""),
+ppm:"Google+ page"};w.prf=Wb};var U,Xb,V,Yb,W=0,Zb=function(a,b,c){if(a.indexOf)return a.indexOf(b,c);if(Array.indexOf)return Array.indexOf(a,b,c);for(c=null==c?0:0>c?Math.max(0,a.length+c):c;c<a.length;c++)if(c in a&&a[c]===b)return c;return-1},X=function(a,b){return-1==Zb(a,W)?(q(Error(W+"_"+b),"up","caa"),!1):!0},ac=function(a,b){X([1,2],"r")&&(U[a]=U[a]||[],U[a].push(b),2==W&&window.setTimeout(function(){b($b(a))},0))},bc=function(a,b,c){if(X([1],"nap")&&c){for(var d=0;d<c.length;d++)Xb[c[d]]=!0;h.up.spl(a,b,"nap",c)}},cc=
+function(a,b,c){if(X([1],"aop")&&c){if(V)for(var d in V)V[d]=V[d]&&-1!=Zb(c,d);else for(V={},d=0;d<c.length;d++)V[c[d]]=!0;h.up.spl(a,b,"aop",c)}},dc=function(){try{if(W=2,!Yb){Yb=!0;for(var a in U)for(var b=U[a],c=0;c<b.length;c++)try{b[c]($b(a))}catch(d){q(d,"up","tp")}}}catch(f){q(f,"up","mtp")}},$b=function(a){if(X([2],"ssp")){var b=!Xb[a];V&&(b=b&&!!V[a]);return b}};Yb=!1;U={};Xb={};V=null;
+var W=1,ec=function(a){var b=!1;try{b=a.cookie&&a.cookie.match("PREF")}catch(c){}return!b},fc=function(){try{return!!e.localStorage&&"object"==typeof e.localStorage}catch(a){return!1}},gc=function(a){return a&&a.style&&a.style.behavior&&"undefined"!=typeof a.load},hc=function(a,b,c,d){try{ec(document)||(d||(b="og-up-"+b),fc()?e.localStorage.setItem(b,c):gc(a)&&(a.setAttribute(b,c),a.save(a.id)))}catch(f){f.code!=DOMException.QUOTA_EXCEEDED_ERR&&q(f,"up","spd")}},ic=function(a,b,c){try{if(ec(document))return"";
+c||(b="og-up-"+b);if(fc())return e.localStorage.getItem(b);if(gc(a))return a.load(a.id),a.getAttribute(b)}catch(d){d.code!=DOMException.QUOTA_EXCEEDED_ERR&&q(d,"up","gpd")}return""},jc=function(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)},kc=function(a){for(var b=0,c;c=a[b];b++){var d=h.up;c=c in d&&d[c];if(!c)return!1}return!0},lc=function(a,b){try{if(ec(a))return-1;var c=a.cookie.match(/OGPC=([^;]*)/);if(c&&c[1]){var d=c[1].match(new RegExp("\\b"+
+b+"-([0-9]+):"));if(d&&d[1])return parseInt(d[1],10)}}catch(f){f.code!=DOMException.QUOTA_EXCEEDED_ERR&&q(f,"up","gcc")}return-1};p("up",{r:ac,nap:bc,aop:cc,tp:dc,ssp:$b,spd:hc,gpd:ic,aeh:jc,aal:kc,gcc:lc});var Y=function(a,b){a[b]=function(c){var d=arguments;h.qm(function(){a[b].apply(this,d)})}};Y(h.up,"sl");Y(h.up,"si");Y(h.up,"spl");Y(h.up,"dpc");Y(h.up,"iic");h.mcf("up",{sp:k.b("0.01",1),tld:"fr",prid:"27"});function mc(){function a(){for(var b;(b=g[l++])&&"m"!=b[0]&&!b[1].auto;);b&&(D(2,b[0]),b[1].url&&B(b[1].url,b[0]),b[1].libs&&E&&E(b[1].libs));l<g.length&&setTimeout(a,0)}function b(){0<f--?setTimeout(b,0):a()}var c=k.a("1"),d=k.a(""),f=3,g=x,l=0,m=window.gbarOnReady;if(m)try{m()}catch(n){q(n,"ml","or")}d?p("ldb",a):c?ca(window,"load",b):b()}p("rdl",mc);}catch(e){window.gbar&&gbar.logger&&gbar.logger.ml(e,{"_sn":"cfg.init"});}})();
+(function(){try{var a=window.gbar;a.mcf("pm",{p:""});}catch(e){window.gbar&&gbar.logger&&gbar.logger.ml(e,{"_sn":"cfg.init"});}})();
+(function(){try{var a=window.gbar;a.mcf("mm",{s:"1"});}catch(e){window.gbar&&gbar.logger&&gbar.logger.ml(e,{"_sn":"cfg.init"});}})();
+(function(){try{window.gbar.rdl();}catch(e){window.gbar&&gbar.logger&&gbar.logger.ml(e,{"_sn":"cfg.init"});}})();
+</script><script>
+      function _rpt() {}
+      function _tck() {}
+    </script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-40765809-1', {
+      'allowLinker': true,
+      'cookiePath': '/finance'
+    });
+    ga('send', 'pageview');
+    </script></head><body><div class=fjfe-bodywrapper><div id=fjfe-real-body class=g-doc><input type="text" name="hist_state" id="hist_state" style="display:none;"><iframe id="hist_frame" name="hist_frame" class=invfr tabindex="-1"></iframe><iframe src="/finance/_/js/a/b/rt=h/ver=f4NsnyBA6kY.en_US./am=!gly3Zx38QovgNqhW/d=0" class=invfr tabindex="-1"></iframe><div id=gb><script>window.gbar&&gbar.eli&&gbar.eli()</script><div id=gbw><div id=gbz><span class=gbtcb></span><ol id=gbzc class=gbtc><li class=gbt><a onclick=gbar.qs(this);gbar.logger.il(1,{t:1}); class=gbzt id=gb_1 href="https://www.google.fr/webhp?tab=ew"><span class=gbtb2></span><span class=gbts>Search</span></a></li><li class=gbt><a onclick=gbar.qs(this);gbar.logger.il(1,{t:2}); class=gbzt id=gb_2 href="http://www.google.fr/imghp?hl=en&tab=ei"><span class=gbtb2></span><span class=gbts>Images</span></a></li><li class=gbt><a onclick=gbar.qs(this);gbar.logger.il(1,{t:8}); class=gbzt id=gb_8 href="http://maps.google.fr/maps?hl=en&tab=el"><span class=gbtb2></span><span class=gbts>Maps</span></a></li><li class=gbt><a onclick=gbar.qs(this);gbar.logger.il(1,{t:78}); class=gbzt id=gb_78 href="https://play.google.com/?hl=en&tab=e8"><span class=gbtb2></span><span class=gbts>Play</span></a></li><li class=gbt><a onclick=gbar.qs(this);gbar.logger.il(1,{t:36}); class=gbzt id=gb_36 href="http://www.youtube.com/?tab=e1"><span class=gbtb2></span><span class=gbts>YouTube</span></a></li><li class=gbt><a onclick=gbar.logger.il(1,{t:23}); class=gbzt id=gb_23 href="https://mail.google.com/mail/?tab=em"><span class=gbtb2></span><span class=gbts>Gmail</span></a></li><li class=gbt><a onclick=gbar.logger.il(1,{t:49}); class=gbzt id=gb_49 href="https://drive.google.com/?tab=eo"><span class=gbtb2></span><span class=gbts>Drive</span></a></li><li class=gbt><a onclick=gbar.logger.il(1,{t:24}); class=gbzt id=gb_24 href="https://www.google.com/calendar?tab=ec"><span class=gbtb2></span><span class=gbts>Calendar</span></a></li><li class=gbt><a class=gbgt id=gbztm href="http://www.google.fr/intl/en/options/" onclick="gbar.tg(event,this)" aria-haspopup=true aria-owns=gbd><span class=gbtb2></span><span id=gbztms class="gbts gbtsa"><span id=gbztms1>More</span><span class=gbma></span></span></a><div class=gbm id=gbd aria-owner=gbztm><div id=gbmmb class="gbmc gbsb gbsbis"><ol id=gbmm class="gbmcc gbsbic"><li class=gbmtc><a onclick=gbar.qs(this);gbar.logger.il(1,{t:51}); class=gbmt id=gb_51 href="http://translate.google.fr/?hl=en&tab=eT">Translate</a></li><li class=gbmtc><a onclick=gbar.qs(this);gbar.logger.il(1,{t:10}); class=gbmt id=gb_10 href="http://books.google.fr/bkshp?hl=en&tab=ep">Books</a></li><li class=gbmtc><a onclick=gbar.qs(this);gbar.logger.il(1,{t:6}); class=gbmt id=gb_6 href="http://www.google.fr/shopping?hl=en&tab=ef">Shopping</a></li><li class=gbmtc><a onclick=gbar.logger.il(1,{t:30}); class=gbmt id=gb_30 href="http://www.blogger.com/?tab=ej">Blogger</a></li><li class=gbmtc><a onclick=gbar.qs(this);gbar.logger.il(1,{t:31}); class=gbmt id=gb_31 href="https://plus.google.com/photos?tab=eq">Photos</a></li><li class=gbmtc><a onclick=gbar.qs(this);gbar.logger.il(1,{t:12}); class=gbmt id=gb_12 href="http://video.google.fr/?hl=en&tab=ev">Videos</a></li><li class=gbmtc><div class="gbmt gbmh"></div></li><li class=gbmtc><a onclick=gbar.logger.il(1,{t:66}); href="http://www.google.fr/intl/en/options/" class=gbmt>Even more &raquo;</a></li></ol><div class=gbsbt></div><div class=gbsbb></div></div></div></li></ol></div><div id=gbg><h2 class=gbxx>Account Options</h2><span class=gbtcb></span><ol class=gbtc><li class=gbt><a target=_top href="https://accounts.google.com/ServiceLogin?service=finance&passive=1209600&continue=http://www.google.com/finance?q%3DEPA:GLE%26ei%3DYbV0U6CQBcWFwAO61IDYAw&followup=http://www.google.com/finance?q%3DEPA:GLE%26ei%3DYbV0U6CQBcWFwAO61IDYAw" onclick="gbar.logger.il(9,{l:'i'})" id=gb_70 class=gbgt><span class=gbtb2></span><span id=gbgs4 class=gbts><span id=gbi4s1>Sign in</span></span></a></li><li class="gbt gbtb"><span class=gbts></span></li><li class=gbt><a class=gbgt id=gbg5 href="http://www.google.fr/preferences?hl=en" title="Options" onclick="gbar.tg(event,this)" aria-haspopup=true aria-owns=gbd5><span class=gbtb2></span><span id=gbgs5 class=gbts><span id=gbi5></span></span></a><div class=gbm id=gbd5 aria-owner=gbg5><div class=gbmc><ol id=gbom class=gbmcc><li class="gbkc gbmtc"><a  class=gbmt href="http://www.google.com/support/finance?hl=en">Help</a></li></ol></div></div></li></ol></div></div><div id=gbx3></div><div id=gbx4></div><script>window.gbar&&gbar.elp&&gbar.elp()</script></div><div id=fjfe-click-wrapper><script>
+(function() {
+  var l = window.location;
+  var q = l.search ? l.search.substr(1) : '';
+  var h = l.hash ? l.hash.substr(1) : '';
+  var p = '/finance';
+  var ss = 'stockscreener';
+  var conn = window.history && window.history.pushState ? '/' : '#';
+  if (l.pathname == p + '/' + ss) {
+    if (h) l.href = p + conn + ss + '?' + q + '&' + h;
+  } else if (l.pathname != p && h) {
+    l.href = p + l.hash;
+  }
+  if (h) {
+document.getElementById('fjfe-click-wrapper').style.display = 'none';
+  }
+})();
+</script><div id=gf-head class="g-section g-tpl-75-25 g-split"><div class="g-unit g-first"><div class=fjfe-logo><a href="/finance/?ei=OClSVLHPCuaZwQOBgYGQDw"><img src="/finance/f/logo_us-115376669.gif" alt="Google Finance"></a></div><div id=gf-search class=fjfe-search><form method="get" action="/finance" autocomplete="off"><input class=fjfe-searchbox-input name=q type=text tabindex=1 value="EPA:GLE"></input><span class=fjfe-searchbox-button-wrapper><span class=fjfe-searchbox-button-wrapper2><input class=fjfe-searchbox-button type=submit tabindex=2 value="Get quotes"></input></span></span><input type=hidden name="ei" value="OClSVLHPCuaZwQOBgYGQDw"></input></form></div></div><div class="g-unit fjfe-promo"><div id="ad2-target" class="id-ad2-target"></div></div></div><div class=elastic><div id=app class="g-section g-tpl-left-11p4em"><div class="g-unit g-first"><div id=gf-nav><div class=fjfe-nav-nav><ul class=fjfe-nav id=navmenu><li class="fjfe-nav-expanded fjfe-nav-selected">Company<li class=fjfe-nav-sub><div>Summary</div><li class=fjfe-nav-sub><a href="/finance/company_news?q=EPA:GLE&amp;ei=OClSVLHPCuaZwQOBgYGQDw">News</a><li class=fjfe-nav-sub><a href="/finance/related?q=EPA:GLE&amp;ei=OClSVLHPCuaZwQOBgYGQDw">Related companies</a><li class=fjfe-nav-sub><a href="/finance/historical?q=EPA:GLE&amp;ei=OClSVLHPCuaZwQOBgYGQDw">Historical prices</a><li class=fjfe-nav-item><a href="/finance?ei=OClSVLHPCuaZwQOBgYGQDw"><div>Markets</div></a><li class=fjfe-nav-item><a href="/finance/market_news?ei=OClSVLHPCuaZwQOBgYGQDw"><div>News</div></a><li class=fjfe-nav-item><a href="/finance/portfolio?action=view&amp;ei=OClSVLHPCuaZwQOBgYGQDw"><div>Portfolios</div></a><li class=fjfe-nav-item><a href="/finance/stockscreener?ei=OClSVLHPCuaZwQOBgYGQDw"><div>Stock screener</div></a><li class=fjfe-nav-item><a href="/finance/domestic_trends?ei=OClSVLHPCuaZwQOBgYGQDw"><div>Google Domestic Trends</div></a></ul></div><div class="fjfe-recentquotes fjfe-recentquotes-noquote"><h4>Recent Quotes <span class="fjfe-recentquotes-duration">(<a href="//www.google.com/history/optout?hl=en">30 days</a>)</span></h4><div class=fjfe-recentquotes-noquote-notification>You have no recent quotes</div><div class=fjfe-recentquotes-quotes><div class="fjfe-toggle fjfe-toggle-button"><span class=fjfe-chg-toggle>chg</span> | <span class=fjfe-perc-toggle>%</span></div><div class=fjfe-table-div><table class=fjfe-recentquotes-table id=rq width=100%></table></div></div></div></div><script>var _cleardot = 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==';
+    var google = google || {};
+    google.finance = google.finance || {};
+    google.finance.gce =false;</script><script src="/finance/f/sfe-opt-98442433.js"></script><script>
+      _regOnLoad = function(f) {
+        if (document.readyState == 'complete') {
+          f && f();
+        } else {
+          // Window.attachEvent() for IE8 and below compatability.
+          var addEventFunction = window.attachEvent ||
+              window.addEventListener || function(ignored, f) { f(); };
+          var event = window.attachEvent ? 'onload' : 'load';
+          f && addEventFunction(event, f);
+        }
+      };
+    
+      google.finance.renderRecentQuotes = function() {};
+    </script></div><div class=g-unit id=gf-viewc><div class=fjfe-content>
+<script>
+(function() {
+if (window['_finance_chart']) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+setFinanceChart(null);
+}
+})();
+var _ticker = 'EPA:GLE';
+var _slHeight = 221;
+var _companyName = 'Societe Generale SA';
+var _companyPageNewsTab = '0';
+var _displayVolume = true;
+setCompanyId(673457);
+_s_Store._numToDisplay = 6;
+_comparison_charts_Store._numToDisplay = 8;
+_comparison_charts_Store._allowMultiTimezoneCompare = true;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/Med12Cbcdb8/chart9.swf?hl=en&gl=us",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCompanyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top appbar-hide" id=companyheader>
+<div class="g-unit g-first"><h3>Societe Generale SA&nbsp;&nbsp;</h3>(Public, EPA:GLE)&nbsp;&nbsp;
+<a href="/finance/portfolio?action=add&amp;addticker=EPA%3AGLE&ei=OClSVLHPCuaZwQOBgYGQDw" class=norm>Watch this stock</a>
+&nbsp;
+</div><div class="g-unit norm">Find more results for<b>
+<a href="?noIL=1&q=GLE&ei=OClSVLHPCuaZwQOBgYGQDw" id=searchmore>GLE</a></b>
+</div>
+</div>
+</div>
+
+<script>
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "EPA:GLE";
+return _comparison_charts_Store;
+}
+});
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.feeds=_prefs.feeds||{};
+_prefs.ch=_prefs.ch||{};
+_prefs.ch_compare=_prefs.ch_compare||{};
+var _chartConfigObject;
+var _cleardot;
+var _companyName;
+var _eventid = 'OClSVLHPCuaZwQOBgYGQDw';
+var _expid;
+var _external_target;
+var _localDomain = 'www.google.com';
+var _minZoomDays;
+var _minZoomDaysNoIntraDay;
+var _prefs;
+var _ticker;
+var _urlSuffix;
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"ad-g.doubleclick.net/adi/com.gf.company/default;fe=epa;ft=gle;fm=large;dcopt=ist;myd=ad;sz=300x250;tile=1",streaming:[{cid:"673457",s:"GLE",e:"EPA"},{cid:"667613",s:"ACA",e:"EPA"},{cid:"1376055",s:"ALENR",e:"EPA"},{cid:"673452",s:"SIE",e:"ETR"},{cid:"667508",s:"EN",e:"EPA"},{cid:"667923",s:"BNP",e:"EPA"},{cid:"689913",s:"MLCFM",e:"EPA"},{cid:"16717729",s:"CS",e:"EPA"},{cid:"667437",s:"ISP",e:"BIT"},{cid:"669893",s:"KN",e:"EPA"},{cid:"673438",s:"",e:""}],dfp_companion:"ad-g.doubleclick.net/adi/com.gf.company/default;fe=epa;ft=gle;fm=large;dcopt=ist;myd=ad2;sz=33x33;tile=2"},company:{news:{clusters:[{idx:0,id:"0",lead_story_url:"http://www.law360.com/retail/articles/589987/deals-rumor-mill-petsmart-societe-generale-atlanta-hawks",a:[{t:"Deals Rumor Mill: PetSmart, Societe Generale, Atlanta Hawks",u:"http://www.law360.com/retail/articles/589987/deals-rumor-mill-petsmart-societe-generale-atlanta-hawks",s:"Law360 (subscription)",sp:"French banking giant Societe Generale SA is eyeing an exit from Brazil and has been negotiating a sale of its assets in the South American country to major local banks in recent months, according to a report in Brazilian newspaper O Estado de S. Paulo.",d:"Oct 24, 2014",tt:"1414190998",usg:"AFQjCNHxmvl9ft_5F2pBeXUulRYhBkgnFw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.law360.com/retail/articles/589987/deals-rumor-mill-petsmart-societe-generale-atlanta-hawks\u0026cid=0\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNGuoRTwgKNyLNeWawDM8lJAqtRzrQ"}],lead_story_doc_id:"14255787374537229945"},{nrel:22,idx:1,id:"52778639592279",lead_story_url:"http://www.businessweek.com/news/2014-10-23/societe-generale-agrees-to-lease-london-offices-at-canary-wharf",a:[{t:"Societe Generale Agrees to Lease London Offices at Canary Wharf",u:"http://www.businessweek.com/news/2014-10-23/societe-generale-agrees-to-lease-london-offices-at-canary-wharf",s:"Businessweek",sp:"Societe Generale SA (GLE) agreed to lease about 280,000 square feet (26,000 square meters) of space at an office tower in London\u0026#39;s Canary Wharf financial district before construction begins.",d:"Oct 23, 2014",tt:"1414075725",usg:"AFQjCNFNbSUgVU0_XAnzswPNUxDbI7xyDA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.businessweek.com/news/2014-10-23/societe-generale-agrees-to-lease-london-offices-at-canary-wharf\u0026cid=52778639592279\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNEevJoHkCFNN6SNcQb1Z13Kg4NQQA"},{t:"Soci�t� G�n�rale Hands Canary Wharf a Victory",u:"http://blogs.wsj.com/moneybeat/2014/10/23/societe-generale-hands-canary-wharf-a-victory/",s:"Wall Street Journal (blog)",sp:"Canary Wharf has won the latest round in the contest with the City of London for trophy residents after persuading Soci�t� G�n�rale to consolidate its London operations into a building at 1 Bank Street. The French bank had also been looking at a\u0026nbsp;...",d:"Oct 23, 2014",tt:"1414085175",usg:"AFQjCNHWjh2A91AbpgptplzXqWZw7CWrFg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://blogs.wsj.com/moneybeat/2014/10/23/societe-generale-hands-canary-wharf-a-victory/\u0026cid=52778639592279\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNEeWzqMMouac6FsQc7eR82Kl4OIPw"},{t:"Societe Generale to Lease at Canary Wharf",u:"http://www.globest.com/news/12_973/international/office/Societe-Generale-to-Lease-at-Canary-Wharf-351781.html",s:"GlobeSt.com",sp:"Societe Generale will occupy the ground and first to seventh floors in this 26-story building on a 25-year lease at a rent of about $76 (�47.50) per square foot and 36 months rent free commencing from the summer of 2019.",d:"Oct 24, 2014",tt:"1414122300",usg:"AFQjCNF0zYho9gkePQN9O4fs6R19FtsITg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.globest.com/news/12_973/international/office/Societe-Generale-to-Lease-at-Canary-Wharf-351781.html\u0026cid=52778639592279\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNE4qWzcMvxXrOBv66yh-tT3pWpy8A"}],lead_story_doc_id:"15313032309743001681"},{nrel:2,idx:2,id:"52778641051673",lead_story_url:"http://www.techsonian.com/news-review-societe-generale-sa-adr-scgly-cannabis-kinetics-corp-otcbbcank-sands-china-ltd-schyy-galenfeha-inc-otcbbglfh/12318482/",a:[{t:"News Review - Societe Generale SA (ADR) (SCGLY), Cannabis Kinetics Corp ...",u:"http://www.techsonian.com/news-review-societe-generale-sa-adr-scgly-cannabis-kinetics-corp-otcbbcank-sands-china-ltd-schyy-galenfeha-inc-otcbbglfh/12318482/",s:"Techsonian (press release)",sp:"Las Vegas, NV - October 25, 2014 - (TechSonian) �Societe Generale SA (ADR) (SCGLY) delivers retail banking, specialized financial and insurance, private banking, asset management and securities, and corporate and investment banking services\u0026nbsp;...",d:"Oct 25, 2014",tt:"1414242450",usg:"AFQjCNFb-sFJW1IcGYB614CvCVrDWE0mqQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.techsonian.com/news-review-societe-generale-sa-adr-scgly-cannabis-kinetics-corp-otcbbcank-sands-china-ltd-schyy-galenfeha-inc-otcbbglfh/12318482/\u0026cid=52778641051673\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNGcBV1pEUyxRMB1gHw-RXMgtBGHTQ"}],lead_story_doc_id:"9494702695007954602"},{nrel:2,idx:3,id:"52778640240720",lead_story_url:"http://www.reuters.com/article/2014/10/24/societe-generale-brazil-idUSL2N0SJ0I920141024",a:[{t:"Societe Generale puts Brazil assets up for sale -newspaper",u:"http://www.reuters.com/article/2014/10/24/societe-generale-brazil-idUSL2N0SJ0I920141024",s:"Reuters",sp:"SAO PAULO Oct 24 (Reuters) - French banking group Societe Generale has been negotiating the sale of its Brazilian assets to major local banks for the past four months, according to a report published in newspaper O Estado de S. Paulo on Friday ...",d:"Oct 24, 2014",tt:"1414147918",usg:"AFQjCNF4ABkXJCsRJO_NagGjrsAbqSRsIg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.reuters.com/article/2014/10/24/societe-generale-brazil-idUSL2N0SJ0I920141024\u0026cid=52778640240720\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNG9CgA6Ql0-gwG-CvHIlFqFRDGCLA"}],lead_story_doc_id:"9653459755551922085"},{nrel:2,idx:4,id:"52778644734042",lead_story_url:"http://www.channelnewsasia.com/news/singapore/rugby-french-bank-societe/1443600.html",a:[{t:"Rugby: French bank Societe Generale signs on as International Rugby 7s sponsor",u:"http://www.channelnewsasia.com/news/singapore/rugby-french-bank-societe/1443600.html",s:"Channel News Asia",sp:"SINGAPORE: French bank Societe Generale has become the first title sponsor of the Singapore Cricket Club International Rugby 7s (SCC 7s).",d:"2 hours ago",tt:"1414661003",usg:"AFQjCNGmuURXIj4fX4Fn1v0yo9NqARbBHw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.channelnewsasia.com/news/singapore/rugby-french-bank-societe/1443600.html\u0026cid=52778644734042\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNEpRp56pOYDJ1Y-3RLf8ybDMyDDuA"},{t:"Rugby: SCC Sevens gets Societe Generale as its first title sponsor; top field ...",u:"http://www.straitstimes.com/news/sport/more-sport-stories/story/rugby-scc-sevens-gets-societe-generale-its-first-title-sponsor-t",s:"The Straits Times",sp:"Pascal Lambert, Societe Generale\u0026#39;s head of corporate \u0026amp; investment banking (South-east Asia), said: \u0026quot;Societe Generale and rugby share the same values of team spirit, commitment, innovation and respect. As Societe Generale celebrates its 150th\u0026nbsp;...",d:"5 hours ago",tt:"1414652175",usg:"AFQjCNGhh2RuyqEhvBzAj5uoFhYSsZp_Pw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.straitstimes.com/news/sport/more-sport-stories/story/rugby-scc-sevens-gets-societe-generale-its-first-title-sponsor-t\u0026cid=52778644734042\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNEXIG-UqfjjG2IhpIVAQviy-DKi6A"}],lead_story_doc_id:"14274110069996444122"},{nrel:4,idx:5,id:"52778616663774",lead_story_url:"http://www.watchlistnews.com/cgg-sa-stock-rating-lowered-by-societe-generale-cgg/115675/",a:[{t:"CGG SA Stock Rating Lowered by Societe Generale (CGG)",u:"http://www.watchlistnews.com/cgg-sa-stock-rating-lowered-by-societe-generale-cgg/115675/",s:"Watch List News (press release)",sp:"Societe Generale downgraded shares of CGG SA (NYSE:CGG) from a buy rating to a hold rating in a research note released on Monday morning.",d:"Sep 24, 2014",tt:"1411552575",usg:"AFQjCNG5nVi7PgKDGHoq2Xpcprc_e_6V7A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.watchlistnews.com/cgg-sa-stock-rating-lowered-by-societe-generale-cgg/115675/\u0026cid=52778616663774\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNFFywHy500-HThmIgwg5Y_Qu3x4WA"}],lead_story_doc_id:"2139913657355807901"},{idx:6,id:"0",lead_story_url:"http://www.techsonian.com/blistering-penny-stocks-in-the-news-avid-technology-inc-avid-societegenerale-sa-adr-scgly-technip-adr-tkppy-kddi-cp-unsp-adr-otcmktskddiy/12307859/",a:[{t:"Blistering Penny Stocks in the News -Avid Technology, Inc. (AVID ...",u:"http://www.techsonian.com/blistering-penny-stocks-in-the-news-avid-technology-inc-avid-societegenerale-sa-adr-scgly-technip-adr-tkppy-kddi-cp-unsp-adr-otcmktskddiy/12307859/",s:"Techsonian (press release)",sp:"Las Vegas, NV - October 11, 2014 - (TechSonian) �Avid Technology, Inc. (AVID)proclaimed that Avid Everywhere(TM) is building worldwide momentum through widespread adoption of the modular Avid Pro Tools(R) | S6 control surface.",d:"Oct 11, 2014",tt:"1413035458",usg:"AFQjCNFKGGC_WLyYcuQ7dxBjYxBcWYSX7A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.techsonian.com/blistering-penny-stocks-in-the-news-avid-technology-inc-avid-societegenerale-sa-adr-scgly-technip-adr-tkppy-kddi-cp-unsp-adr-otcmktskddiy/12307859/\u0026cid=0\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNHf0UOI7YiKFb66LDxha1ZQ3EJYNg"}],lead_story_doc_id:"14049510550670021477"},{idx:7,id:"52778642649063",lead_story_url:"http://www.reuters.com/article/2014/10/27/societegenerale-moves-sonalpriyanka-idUSL4N0SM4VK20141027",a:[{t:"MOVES-Societe Generale names Sonal Priyanka regional head of trade",u:"http://www.reuters.com/article/2014/10/27/societegenerale-moves-sonalpriyanka-idUSL4N0SM4VK20141027",s:"Reuters",sp:"Oct 27 (Reuters) - Societe Generale said it appointed Sonal Priyanka regional head of trade for Southeast Asia, India and the Middle East within its global transaction banking division.",d:"Oct 27, 2014",tt:"1414421325",usg:"AFQjCNHtAKJ-s2CPptSUs_bMDBfpdEPYsA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.reuters.com/article/2014/10/27/societegenerale-moves-sonalpriyanka-idUSL4N0SM4VK20141027\u0026cid=52778642649063\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNHixdZ0HjXYi9vtci27bomiwewXGQ"},{t:"You are here: HomeSociete Generale appoints Sonal Priyanka as regional trade ...",u:"http://www.tradefinancemagazine.com/Article/3394042/Societe-Generale-appoints-Sonal-Priyanka-as-regional-trade-head.html",s:"Trade Finance (subscription)",sp:"Societe Generale has appointed Sonal Priyanka as regional trade head for Southeast Asia, India and the Middle East. Her new role is part of the bank\u0026#39;s global transaction banking division.",d:"Oct 27, 2014",tt:"1414416600",usg:"AFQjCNEGVJVf1vG5dCTuyY32LdAvM49UJg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.tradefinancemagazine.com/Article/3394042/Societe-Generale-appoints-Sonal-Priyanka-as-regional-trade-head.html\u0026cid=52778642649063\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNFds8tW7Q-YPdBZ71u_2MekRn35TA"}],lead_story_doc_id:"12407601345044835853"},{idx:8,id:"0",lead_story_url:"http://thetally.efinancialnews.com/2014/10/societe-generale-hands-canary-wharf-victory/",a:[{t:"Societe Generale hands Canary Wharf a victory",u:"http://thetally.efinancialnews.com/2014/10/societe-generale-hands-canary-wharf-victory/",s:"theTally",sp:"Canary Wharf has won the latest round in the contest with the City of London for trophy residents after persuading Societe Generale to consolidate its London operations into a building at 1 Bank Street, writes David Wighton on WSJ MoneyBeat. The French\u0026nbsp;...",d:"Oct 24, 2014",tt:"1414138500",usg:"AFQjCNH9j0E3rpjsIlpkQQeCHkwrdHhPDw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://thetally.efinancialnews.com/2014/10/societe-generale-hands-canary-wharf-victory/\u0026cid=0\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNFsZRGuVPyin8Q_JTzLlseSaiMF9Q"}],lead_story_doc_id:"827513561992086892"},{nrel:2,idx:9,id:"52778636957845",lead_story_url:"http://www.cityam.com/1413778299/societe-generale-close-deal-canary-wharf-headquarters",a:[{t:"Societe Generale close to a deal for Canary Wharf headquarters",u:"http://www.cityam.com/1413778299/societe-generale-close-deal-canary-wharf-headquarters",s:"CITY A.M.",sp:"French bank Societe Generale is understood to be close to signing a deal for a new office in Canary Wharf. The financial heavyweight had been widely expected to plump for a new headquarters in Spitalfields at the City Corporation\u0026#39;s Fruit and Wool ...",d:"Oct 20, 2014",tt:"1413778565",usg:"AFQjCNE142ImoIr-uwlbhzSFWqyW8jGukg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.cityam.com/1413778299/societe-generale-close-deal-canary-wharf-headquarters\u0026cid=52778636957845\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNEkRFFavBeqRwSBnI9qfurPbWdq9A"},{t:"Canary Wharf submits detailed designs for Heron Quays West",u:"http://www.wharf.co.uk/2014/10/canary-wharf-submits-detailed.html",s:"The Wharf",sp:"Detailed plans for Canary Wharf Group\u0026#39;s latest tower have been submitted, with French bank Societe Generale reported to be considering it for its headquarters.",d:"Oct 20, 2014",tt:"1413808425",usg:"AFQjCNHubC-JszIA_uE_dHnV6L-c8s6Y5Q",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.wharf.co.uk/2014/10/canary-wharf-submits-detailed.html\u0026cid=52778636957845\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNHO9JWogHQ9J-G-VR1rnWbYBHKjpQ"}],lead_story_doc_id:"12904449806143370216"},{idx:10,id:"0",lead_story_url:"http://www.thestar.com.my/Business/Business-News/2014/10/30/EU-banks-under-RAM-Ratings-coverage-sufficiently-capitalised/?style=biz",a:[{t:"EU banks under RAM Ratings\u0026#39; coverage sufficiently capitalised",u:"http://www.thestar.com.my/Business/Business-News/2014/10/30/EU-banks-under-RAM-Ratings-coverage-sufficiently-capitalised/?style=biz",s:"The Star Online",sp:"The ratings agency said on Thursday the banks under its coverage which had passed the stress test were Soci�t� G�n�rale SA (SocGen), HSBC Holdings plc, Deutsche Bank AG and BNP Paribas. RAM Ratings said these financial institutions are expected to\u0026nbsp;...",d:"37 minutes ago",tt:"1414668375",usg:"AFQjCNEljMf-_7Wau3iTW1FCRScbGJ_hdg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.thestar.com.my/Business/Business-News/2014/10/30/EU-banks-under-RAM-Ratings-coverage-sufficiently-capitalised/%3Fstyle%3Dbiz\u0026cid=0\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNFMnjNba6PU5vAfSbjoK9vV4qHLqg"}],lead_story_doc_id:"16483445637244616206"},{nrel:4,idx:11,id:"52778644696636",lead_story_url:"http://www.bloomberg.com/news/2014-10-30/gilts-beating-g-7-as-carney-rate-increase-recedes-u-k-credit.html",a:[{t:"Gilts Beating G-7 as Carney Rate Increase Recedes: U.K. Credit",u:"http://www.bloomberg.com/news/2014-10-30/gilts-beating-g-7-as-carney-rate-increase-recedes-u-k-credit.html",s:"Bloomberg",sp:"�People in the market, including us, have scaled back their expectations on Bank of England\u0026#39;s rate hikes,� said Vincent Chaigneau, global head of fixed-income and foreign-exchange strategy at Societe Generale SA in Paris. �There are signs that growth ...",d:"4 hours ago",tt:"1414655550",usg:"AFQjCNH9R1amCwtLV0HwLhXw4L5h0h6Wxg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.bloomberg.com/news/2014-10-30/gilts-beating-g-7-as-carney-rate-increase-recedes-u-k-credit.html\u0026cid=52778644696636\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNHrLz4MWAqjCA2grdBPbujR9bk0Ng"}],lead_story_doc_id:"4948922434752570258"},{nrel:30,idx:12,id:"52778644409074",lead_story_url:"http://www.bloomberg.com/news/2014-10-29/u-s-crude-output-surges-to-highest-since-at-least-1983.html",a:[{t:"U.S. Oil Output Surges to Highest Since 1980s on Shale",u:"http://www.bloomberg.com/news/2014-10-29/u-s-crude-output-surges-to-highest-since-at-least-1983.html",s:"Bloomberg",sp:"�The flip side of the growth in domestic crude production is the drop in imports,� Mike Wittner, head of oil market research at Societe Generale SA in New York, said by phone. �This structure ain\u0026#39;t going to change anytime soon.� The weekly production ...",d:"20 hours ago",tt:"1414597800",usg:"AFQjCNH60-epU6WgLfxl3PyGftFaiJI9sA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.bloomberg.com/news/2014-10-29/u-s-crude-output-surges-to-highest-since-at-least-1983.html\u0026cid=52778644409074\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNEz-lu-9DymPJbOAQpkprLk3G0dMg"}],lead_story_doc_id:"14712589138432050705"},{nrel:266,idx:13,id:"52778643601005",lead_story_url:"http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/10/29/watergate-quiz/",a:[{t:"Watergate quiz",u:"http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/10/29/watergate-quiz/",s:"Washington Post",sp:"How well do you know Watergate? This 100-question quiz from the summer of 1974 will provide the answer. If you were a newspaper reader when Watergate took place, the quiz will bring back lots of memories.",d:"13 hours ago",tt:"1414622622",usg:"AFQjCNHF5-c7qhTGpAzbh3BUqJ2zSS1hFQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/10/29/watergate-quiz/\u0026cid=52778643601005\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNHstsUEYTMNFhJpiS_meYqbLxEeTQ"}],lead_story_doc_id:"17187974150711503684"},{nrel:128,idx:14,id:"52778644197549",lead_story_url:"http://www.reuters.com/article/2014/10/29/us-ecb-policy-poll-idUSKBN0II1KS20141029",a:[{t:"ECB must expand balance sheet by 1 trillion euros to lift inflation: Reuters poll",u:"http://www.reuters.com/article/2014/10/29/us-ecb-policy-poll-idUSKBN0II1KS20141029",s:"Reuters",sp:"\u0026quot;The efficiency of a QE program to improve both the growth and inflation outlook is limited,\u0026quot; said Michel Martinez, the chief euro economist at Societe Generale, who forecast the ECB would need to expand its balance sheet by 1.5 trillion euros ...",d:"21 hours ago",tt:"1414592775",usg:"AFQjCNEd6YVI3thEy89SU9bV4TPSw9V1uQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.reuters.com/article/2014/10/29/us-ecb-policy-poll-idUSKBN0II1KS20141029\u0026cid=52778644197549\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNGBz2FQ2BYLhT0vh7DAlbOness3aw"},{t:"Euro Outflows at Record Pace as ECB Promotes Exodus",u:"http://www.businessweek.com/news/2014-10-28/euro-outflows-at-record-pace-as-ecb-promotes-exodus",s:"Businessweek",sp:"�The situation we have in Europe currently is not just the slowdown in growth but, more important, is the continued disinflation pressure,� Alvin T. Tan, a strategist at Societe Generale SA in London, who predicts the currency will fall toward $1.15 in ...",d:"Oct 28, 2014",tt:"1414491318",usg:"AFQjCNGIrdFlerR00gMibssSVx4bjCMTIQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.businessweek.com/news/2014-10-28/euro-outflows-at-record-pace-as-ecb-promotes-exodus\u0026cid=52778644197549\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNGfWsrzHzp6A2RiJhlVMe9Jk7wmGw"}],lead_story_doc_id:"11089283145250555667"},{nrel:2,idx:15,id:"52778644437306",lead_story_url:"http://blogs.barrons.com/emergingmarketsdaily/2014/10/29/interest-rates-russia-fed-turkey/",a:[{t:"Interest Rates: Russia, Fed \u0026amp; Turkey",u:"http://blogs.barrons.com/emergingmarketsdaily/2014/10/29/interest-rates-russia-fed-turkey/",s:"Barron's (blog)",sp:"The Central Bank of Russia meets on Friday and market observers looking for a one-point interest rate hike may have it wrong, says Benoit Anne, strategist at Societe Generale. Anne explains the two kinds of interest rate hikes, and Russia\u0026#39;s options ...",d:"15 hours ago",tt:"1414615725",usg:"AFQjCNE8mm4e8GHTjbUT8OXzALvEg2kRvw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://blogs.barrons.com/emergingmarketsdaily/2014/10/29/interest-rates-russia-fed-turkey/\u0026cid=52778644437306\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNGiPKrq2go4xdSl5BotKve86D9GyA"}],lead_story_doc_id:"16818811378718314165"},{nrel:194,idx:16,id:"52778644245068",lead_story_url:"http://www.mideasttime.com/standard-chartered-plc-lowered-to-hold-at-societe-generale-stan/249240/",a:[{t:"Standard Chartered PLC Lowered to Hold at Societe Generale (STAN)",u:"http://www.mideasttime.com/standard-chartered-plc-lowered-to-hold-at-societe-generale-stan/249240/",s:"Mideast Time",sp:"Standard Chartered PLC logo Standard Chartered PLC (LON:STAN) was downgraded by investment analysts at Societe Generale to a �hold� rating in a note issued to investors on Thursday.",d:"1 hour ago",tt:"1414665000",usg:"AFQjCNG3KmzLnOHYx_BHHjAyXhNyS2HLSA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.mideasttime.com/standard-chartered-plc-lowered-to-hold-at-societe-generale-stan/249240/\u0026cid=52778644245068\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNE5HnYn2tCus30OBuaCYXsQqH6jmg"},{t:"Premier Foods Plc Price Target Lowered to GBX 35 at Societe Generale (PFD)",u:"http://www.intercooleronline.com/stocks/premier-foods-plc-price-target-lowered-to-gbx-35-at-societe-generale-pfd/115270/",s:"Intercooler",sp:"Premier Foods Plc logo Analysts at Societe Generale reduced their target price on shares of Premier Foods Plc (LON:PFD) from GBX 70 ($1.13) to GBX 35 ($0.56) in a research report issued to clients and investors on Tuesday.",d:"Oct 29, 2014",tt:"1414583325",usg:"AFQjCNFeybH5w-CnyqlBbhmVn_-IqWLamw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.intercooleronline.com/stocks/premier-foods-plc-price-target-lowered-to-gbx-35-at-societe-generale-pfd/115270/\u0026cid=52778644245068\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNFEV-DJ71mI9iJQknwDeM6J-VLU1w"},{t:"Aviva plc Price Target Raised to GBX 650 (AV)",u:"http://tickerreport.com/banking-finance/329885/aviva-plc-price-target-raised-to-gbx-650-av/",s:"Ticker Report",sp:"Societe Generale has also taken action a number of other stocks recently. The firm downgraded shares of Anglo American plc (ADR) to a sell rating.",d:"2 hours ago",tt:"1414662300",usg:"AFQjCNFvcg12jEtbK1FoB2hs1NQMwX6LqQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://tickerreport.com/banking-finance/329885/aviva-plc-price-target-raised-to-gbx-650-av/\u0026cid=52778644245068\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNHlmSCvTqV-zshnetd0gg375TEkcw"}],lead_story_doc_id:"11290490004173118656"},{nrel:73,idx:17,id:"52778640123111",lead_story_url:"http://www.bloomberg.com/news/2014-10-29/hedge-fund-vix-wagers-tip-toward-turbulence-after-selloff.html",a:[{t:"Hedge Fund VIX Wagers Tip Toward Turbulence After Selloff",u:"http://www.bloomberg.com/news/2014-10-29/hedge-fund-vix-wagers-tip-toward-turbulence-after-selloff.html",s:"Bloomberg",sp:"The volatility caught traders off guard, spurring them to buy back futures to cover short sales and contributing to a spike in the VIX during that time, according to Ramon Verastegui, the head of engineering and strategy at Societe Generale SA. �Hedge ...",d:"23 hours ago",tt:"1414586528",usg:"AFQjCNGOEea6GLSJ97PErUeyACicihw6vg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.bloomberg.com/news/2014-10-29/hedge-fund-vix-wagers-tip-toward-turbulence-after-selloff.html\u0026cid=52778640123111\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNHufz519kntNsohtghvChufGwLVFg"}],lead_story_doc_id:"17775501051786920407"},{nrel:493,idx:18,id:"52778643465232",lead_story_url:"http://blogs.wsj.com/moneybeat/2014/10/29/deutsche-bank-earnings-the-takeaways/",a:[{t:"Deutsche Bank Earnings: The Takeaways",u:"http://blogs.wsj.com/moneybeat/2014/10/29/deutsche-bank-earnings-the-takeaways/",s:"Wall Street Journal (blog)",sp:"But its leverage ratio of 3.2%, a measure of its equity compared to debt, is still short of the sector average, leading Soci�t� G�n�rale analyst Andrew Lim to keep his �sell� rating on shares. Jefferies analyst Omar Fall noted a lack of clarity about ...",d:"19 hours ago",tt:"1414599398",usg:"AFQjCNHW1ZLK7DMIj9KgTvyf0pMT7BvdpA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://blogs.wsj.com/moneybeat/2014/10/29/deutsche-bank-earnings-the-takeaways/\u0026cid=52778643465232\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNFcDI-VNCjzItbq2lW9ls6Ix1FDVQ"}],lead_story_doc_id:"1993033886434983457"},{nrel:2,idx:19,id:"52778644169857",lead_story_url:"http://www.businessweek.com/news/2014-10-29/foreign-investors-sell-u-dot-k-dot-bonds-as-pound-strength-damps-demand",a:[{t:"Foreign Investors Sell UK Bonds as Pound Strength Damps Demand",u:"http://www.businessweek.com/news/2014-10-29/foreign-investors-sell-u-dot-k-dot-bonds-as-pound-strength-damps-demand",s:"Businessweek",sp:"Foreign investors sold 3.7 billion pounds ($6 billion) more than they bought in U.K. government bonds last month, a move Societe Generale SA attributed partly to the pound\u0026#39;s strength damping demand. September net sales by overseas buyers -- who hold\u0026nbsp;...",d:"23 hours ago",tt:"1414586308",usg:"AFQjCNExojqzHBqGSXGllryQUhOaQIj-xw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.businessweek.com/news/2014-10-29/foreign-investors-sell-u-dot-k-dot-bonds-as-pound-strength-damps-demand\u0026cid=52778644169857\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNFTtdZCwrzFTcMLmp2TWAphNfFsgQ"}],lead_story_doc_id:"15513854514535622414"},{nrel:1954,idx:20,id:"52778644429313",lead_story_url:"http://www.bloomberg.com/news/2014-10-29/ukraine-will-struggle-to-boost-eu-gas-imports-amid-talks.html",a:[{t:"Ukraine Will Struggle to Boost EU Gas Imports Amid Talks",u:"http://www.bloomberg.com/news/2014-10-29/ukraine-will-struggle-to-boost-eu-gas-imports-amid-talks.html",s:"Bloomberg",sp:"�The Ukrainians have always been too optimistic about getting more gas through reverse flows,� Thierry Bros, an analyst at Societe Generale SA in Paris, said yesterday by phone. �It\u0026#39;s not because you have the capacity that the gas will come. Russia has\u0026nbsp;...",d:"Oct 29, 2014",tt:"1414575754",usg:"AFQjCNEumNdWwy50WWAwdrBokRHULyOlGQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.bloomberg.com/news/2014-10-29/ukraine-will-struggle-to-boost-eu-gas-imports-amid-talks.html\u0026cid=52778644429313\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNFIrAdbRY07m5G3wzynbf75p7cS1g"}],lead_story_doc_id:"17739826957251813129"},{nrel:8,idx:21,id:"52778644594911",lead_story_url:"http://www.channelnewsasia.com/news/business/singapore/tan-su-shan-of-dbs-takes/1443174.html",a:[{t:"Tan Su Shan of DBS takes global private banking honour",u:"http://www.channelnewsasia.com/news/business/singapore/tan-su-shan-of-dbs-takes/1443174.html",s:"Channel News Asia",sp:"... Times Group, said: �Although she has had a high profile in Singapore for many years, it was felt that her time has finally come, particularly regarding her leading role in the acquisition of the Asian private banking business of French bank Societe ...",d:"6 hours ago",tt:"1414646100",usg:"AFQjCNHLcp9agsL9a8HzzZwl9W7Gu4tASA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.channelnewsasia.com/news/business/singapore/tan-su-shan-of-dbs-takes/1443174.html\u0026cid=52778644594911\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNGmseAc4nn9d63ln30TJAMDlIxq4w"}],lead_story_doc_id:"15828849876491220752"},{nrel:4,idx:22,id:"52778644751725",lead_story_url:"http://www.thestreet.com/story/12931043/1/obscure-swiss-referendum-could-roil-gold-and-currency-markets.html",a:[{t:"Obscure Swiss Referendum Could Roil Gold and Currency Markets",u:"http://www.thestreet.com/story/12931043/1/obscure-swiss-referendum-could-roil-gold-and-currency-markets.html",s:"TheStreet.com",sp:"... the vote won\u0026#39;t pass but accepts it would have an impact on gold prices if it does -- Barclays (BCS) thinks the purchases will target some 1,500 tonnes (metric tons) rather than the true upper limit of 2,500 tonnes; Societe Generale (CET) has noted ...",d:"1 hour ago",tt:"1414663650",usg:"AFQjCNHlulH-mE13lKIwAp7ILLMruitGGA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.thestreet.com/story/12931043/1/obscure-swiss-referendum-could-roil-gold-and-currency-markets.html\u0026cid=52778644751725\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNFja7lDGW6H9nCJW4-LrmadeM5wiQ"},{t:"Gold Bullion Hoarded by Russia, Shed by GLD Ahead of \u0026quot;Dovish\u0026quot; Fed FOMC ...",u:"https://www.bullionvault.com/gold-news/gold-bullion-102920141",s:"BullionVault",sp:"Current president Vladimir Putin set a 10% target in 2006 when first in the Kremlin. \u0026quot;The Swiss National Bank [in contrast] has the liberty of deciding how much gold to hold,\u0026quot; notes French investment and bullion bank Societe Generale analyst Robin Bhar ...",d:"19 hours ago",tt:"1414598850",usg:"AFQjCNG8h76jkpulVXT21kYIvriwRfB-GA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://www.bullionvault.com/gold-news/gold-bullion-102920141\u0026cid=52778644751725\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNGWXLRQU-U51yFBNAPjaRR9WCQ2fQ"}],lead_story_doc_id:"7800559331048058760"},{idx:23,id:"0",lead_story_url:"http://fortune.com/2014/10/30/ing-group-ralph-hamers-retail-banking-restructuring/",a:[{t:"ING Group: The slimmer, stronger giant",u:"http://fortune.com/2014/10/30/ing-group-ralph-hamers-retail-banking-restructuring/",s:"Fortune",sp:"But globally, it faces BNP, Soci�t� G�n�rale, Barclays, and other European competitors who offer online banking. So now Hamers is aggressively pushing mobile.",d:"26 minutes ago",tt:"1414669050",usg:"AFQjCNHpCP7tbS32FgU5JjQTT77eE_AvaA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://fortune.com/2014/10/30/ing-group-ralph-hamers-retail-banking-restructuring/\u0026cid=0\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNH92FhJVaPPDSktwOFQBur8gPnKFQ"}],lead_story_doc_id:"11324515654834570951"},{nrel:2985,idx:24,id:"52778644625749",lead_story_url:"http://www.channelnewsasia.com/news/business/fed-s-bullish-turn-sends/1442574.html",a:[{t:"Fed\u0026#39;s bullish turn sends dollar higher",u:"http://www.channelnewsasia.com/news/business/fed-s-bullish-turn-sends/1442574.html",s:"Channel News Asia",sp:"Kit Juckes of Societe Generale though cautioned about reading the Fed\u0026#39;s shift too aggressively. \u0026quot;The FOMC sometimes seems to wander schizophrenically between focusing on the (slowly improving) labour market and obsessing about disinflation, wages et\u0026nbsp;...",d:"14 hours ago",tt:"1414617750",usg:"AFQjCNHJQ7w9oo57byGvWsmKQfDlH3FlNg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.channelnewsasia.com/news/business/fed-s-bullish-turn-sends/1442574.html\u0026cid=52778644625749\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNEYBvw_jiG6uzOtZwXhldg9hdMsNQ"},{t:"European stocks mostly higher after Fed ends QE program; Dax up 0.43%",u:"http://www.investing.com/news/stock-market-news/european-stocks-mostly-higher-after-fed-ends-qe-program;-dax-up-0.43-314766",s:"Investing.com",sp:"Financial stocks were mixed, as French lenders BNP Paribas (PARIS:BNPP) and Societe Generale (PARIS:SOGN) gained 0.80% and 0.67%, while Germany\u0026#39;s Deutsche Bank (XETRA:DBKGn) declined 0.57%.",d:"3 hours ago",tt:"1414658925",usg:"AFQjCNH1hqXbKh1PRlvH4M0NCln9Cme2XQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.investing.com/news/stock-market-news/european-stocks-mostly-higher-after-fed-ends-qe-program%3B-dax-up-0.43-314766\u0026cid=52778644625749\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNGrdMlEQAza2ggdxlfvAeXUhLXpWw"},{t:"Asian stocks rise before Fed while US futures slip with dollar",u:"http://www.bworldonline.com/content.php?section=StockMarket\u0026title=asian-stocks-rise-before-fed-while-us-futures-slip-with-dollar\u0026id=96886",s:"BusinessWorld Online Edition",sp:"It is still too early to move on to the Fed rate-hike phase,� Benoit Anne, head of emerging-markets strategy in London at Societe Generale SA, wrote in a client note e-mailed today. �There are always investors that fear the Fed no matter what ...",d:"Oct 29, 2014",tt:"1414545525",usg:"AFQjCNGpy0ijuJp5DgMdodi3EayTcKwX-A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.bworldonline.com/content.php%3Fsection%3DStockMarket%26title%3Dasian-stocks-rise-before-fed-while-us-futures-slip-with-dollar%26id%3D96886\u0026cid=52778644625749\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNG5arr-OAbzG8Ss2G7eK9dGzBXXqA"}],lead_story_doc_id:"17561673463129613161"},{nrel:15,idx:25,id:"52778644724045",lead_story_url:"http://af.reuters.com/article/southAfricaMarketNews/idAFL5N0SP25D20141030",a:[{t:"EMERGING MARKETS-Emerging assets mostly weaker post-Fed, rouble bears ...",u:"http://af.reuters.com/article/southAfricaMarketNews/idAFL5N0SP25D20141030",s:"Reuters Africa",sp:"\u0026quot;This is a market that is in digestion mode after the Fed, we see a bit of weakness after the dollar ticking higher,\u0026quot; said Benoit Anne, head of emerging markets strategy at Societe Generale in London. But he is advising clients to disregard the ...",d:"1 hour ago",tt:"1414664325",usg:"AFQjCNEDNGaNysw4hjVWvtx1KJ5IRCCOJg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://af.reuters.com/article/southAfricaMarketNews/idAFL5N0SP25D20141030\u0026cid=52778644724045\u0026ei=OClSVLHPCuaZwQOBgYGQDw\u0026usg=AFQjCNGeC2QwV2STYirzNFEOTeIuq_fnXQ"}],lead_story_doc_id:"14619897853748313552"},{idx:26,id:"-1"}],results_per_page:10,result_start_num:1,result_end_num:0,result_total_articles:104},related:{cols:[0,1,4,30,34,31,32,5,2,33,3],rows:[{id:"673457",values:["GLE","Societe Generale SA","36.03","-1.26","chr","-3.38","","29.01B","EPA","673457","GLE"]},{id:"667613",values:["ACA","Credit Agricole SA","11.20","-0.20","chr","-1.80","","28.86B","EPA","667613","ACA"]},{id:"1376055",values:["ALENR","Entreprendre SA","42.44","0.00","chb","0.00","","26.05M","EPA","1376055","ALENR"]},{id:"673452",values:["SIE","Siemens AG","85.98","-1.33","chr","-1.52","","75.75B","ETR","673452","SIE"]},{id:"667508",values:["EN","Bouygues SA","26.52","-0.32","chr","-1.21","","8.90B","EPA","667508","EN"]},{id:"667923",values:["BNP","BNP Paribas SA","47.63","-0.84","chr","-1.73","","59.36B","EPA","667923","BNP"]},{id:"689913",values:["MLCFM","Credit Foncier de Monaco SA","928.90","0.00","chb","0.00","","532.26M","EPA","689913","MLCFM"]},{id:"16717729",values:["CS","Axa SA","17.67","-0.22","chr","-1.23","","42.81B","EPA","16717729","CS"]},{id:"667437",values:["ISP","Intesa Sanpaolo SpA","2.15","-0.10","chr","-4.27","","35.18B","BIT","667437","ISP"]},{id:"669893",values:["KN","Natixis SA","5.19","-0.09","chr","-1.69","","16.17B","EPA","669893","KN"]},{id:"673438",values:["Commerzbank AG","Commerzbank AG","","","","","","","","673438",""]}],visible_cols:[0,1,4,30,34,31,32,5]},related_str:"673457,667613,1376055,673452,667508,667923,689913,16717729,667437,669893,673438",perf:[{u:"/finance?q=INDEXFTSE:UKX",name:"FTSE 100",cp:"-0.85",p:"6,399.21",cid:"12590587"},{u:"/finance?q=EPA:GLE",name:"GLE",cp:"-3.38",p:"36.03",cid:"673457"}],t:"EPA:GLE: {LAST} {CHANGE} ({CHANGE_PCT}%) - Societe Generale SA",ticker:"EPA:GLE",cid:"673457"},stickyUrlArgs:"\u0026ei=OClSVLHPCuaZwQOBgYGQDw",chart:{_5d:"EXCHANGE%3DEPA\nMARKET_OPEN_MINUTE=540\nMARKET_CLOSE_MINUTE=1060\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA=\nTIMEZONE_OFFSET=120\na1414134120,38.4,58176\n1,38.35,46894\n2,38.44,25846\n3,38.42,28345\n4,38.56,42415\n5,38.6,40574\n6,38.655,25467\n7,38.64,63326\n8,38.66,21093\n9,38.65,9166\n10,38.63,17209\n11,38.595,13197\n12,38.585,9138\n13,38.56,14635\n14,38.575,19150\n15,38.51,8101\n16,38.48,14418\n17,38.55,10681\n18,38.655,7931\n19,38.63,15808\n20,38.655,18228\n21,38.555,16733\n22,38.635,10546\n23,38.605,5629\n24,38.605,9506\n25,38.655,9094\n26,38.68,5917\n27,38.72,14073\n28,38.77,24422\n29,38.86,30290\n30,38.785,22404\n31,38.88,36648\n32,38.935,24732\n33,38.95,51272\n34,38.92,15383\n35,38.9,13664\n36,38.91,6955\n37,38.965,17540\n38,38.98,9565\n39,38.88,26634\n40,38.865,36107\n41,38.87,24821\n42,38.835,8775\n43,38.84,12520\n44,38.845,13449\n45,38.825,5233\n46,38.81,33330\n47,38.84,8799\n48,38.915,12213\n49,38.985,21273\n50,39,36584\n51,38.995,13906\n52,39.015,12777\n53,39.05,38310\n54,39.07,23411\n55,39.06,14025\n56,39.015,48145\n57,38.995,9112\n58,38.955,16561\n59,38.895,25375\n60,38.88,16977\n61,38.87,45190\n62,38.9,30453\n63,38.905,29201\n64,38.925,9314\n65,38.975,11763\n66,39,15333\n67,39.005,27227\n68,39.01,2859\n69,39.02,11234\n70,38.97,12344\n71,39,17956\n72,38.945,10534\n73,38.965,10537\n74,38.895,12109\n75,38.92,26781\n76,38.965,20538\n77,38.965,12440\n78,38.965,9799\n79,38.935,19677\n80,38.915,18775\n81,38.915,4682\n82,38.9,6583\n83,38.875,12061\n84,38.885,25007\n85,38.78,40309\n86,38.82,26947\n87,38.79,25985\n88,38.845,19765\n89,38.89,30092\n90,38.925,13541\n91,38.915,2797\n92,38.925,1696\n93,38.84,24660\n94,38.85,15675\n95,38.84,10456\n96,38.78,3507\n97,38.77,14727\n98,38.755,8049\n99,38.74,4825\n100,38.71,27607\n101,38.615,65759\n102,38.665,8767\n103,38.675,18546\n104,38.775,15279\n105,38.77,6851\n106,38.725,9320\n107,38.72,8219\n108,38.745,4341\n109,38.73,5611\n110,38.715,10234\n111,38.715,7933\n112,38.7,3431\n113,38.665,5537\n114,38.655,1153\n115,38.69,4575\n116,38.67,8238\n117,38.655,9242\n118,38.64,17269\n119,38.65,7201\n120,38.61,52896\n121,38.645,39856\n122,38.675,6829\n123,38.705,12471\n124,38.65,4035\n125,38.635,16384\n126,38.67,3507\n127,38.675,1423\n128,38.735,15445\n129,38.74,12919\n130,38.74,2854\n131,38.74,8518\n132,38.7,8744\n133,38.68,4547\n134,38.69,5929\n135,38.7,4599\n136,38.63,17845\n137,38.64,3845\n138,38.655,7335\n139,38.635,5962\n140,38.645,419\n141,38.645,6175\n142,38.69,6469\n143,38.675,86\n144,38.64,11411\n145,38.61,17222\n146,38.695,14997\n147,38.68,10280\n148,38.7,21772\n149,38.69,10584\n150,38.685,4368\n151,38.705,10754\n152,38.74,17726\n153,38.78,9633\n154,38.755,5632\n155,38.74,3392\n156,38.76,7628\n157,38.775,8867\n158,38.785,11132\n159,38.795,12291\n160,38.805,14963\n161,38.8,6563\n162,38.785,900\n163,38.755,2006\n164,38.75,3613\n165,38.7,6090\n166,38.77,7611\n167,38.71,16916\n168,38.68,14000\n169,38.65,3182\n170,38.655,7172\n171,38.515,129537\n172,38.5,55574\n173,38.475,42070\n174,38.475,32669\n175,38.545,78266\n176,38.555,26908\n177,38.59,7108\n178,38.54,5762\n179,38.55,5756\n180,38.59,14398\n181,38.56,9839\n182,38.59,10123\n183,38.615,62413\n184,38.6,20813\n185,38.69,25312\n186,38.73,29147\n187,38.8,39038\n188,38.81,40612\n189,38.845,13922\n190,38.89,6936\n191,38.915,12343\n192,38.955,41724\n193,39.005,16748\n194,39.02,21860\n195,38.965,18826\n196,39.01,16380\n197,38.945,13880\n198,39.015,7572\n199,39,43973\n200,38.985,9951\n201,38.995,15806\n202,38.98,8176\n203,38.875,25683\n204,38.885,11733\n205,38.845,33077\n206,38.825,11658\n207,38.795,20872\n208,38.775,2853\n209,38.79,2432\n210,38.82,10059\n211,38.675,37608\n212,38.625,45068\n213,38.64,18944\n214,38.65,21953\n215,38.71,3132\n216,38.75,15108\n217,38.76,5048\n218,38.73,28474\n219,38.76,41884\n220,38.715,52345\n221,38.675,15774\n222,38.69,28408\n223,38.75,9350\n224,38.765,21361\n225,38.75,15705\n226,38.81,8592\n227,38.9,35848\n228,38.88,4684\n229,38.85,8100\n230,38.845,5774\n231,38.85,19634\n232,38.82,7574\n233,38.81,7092\n234,38.855,15989\n235,38.89,26309\n236,38.905,19688\n237,38.965,25928\n238,38.915,21831\n239,38.865,26613\n240,38.775,46851\n241,38.735,27317\n242,38.77,32442\n243,38.735,23409\n244,38.76,13686\n245,38.785,13991\n246,38.855,29196\n247,38.865,30474\n248,38.845,26263\n249,38.845,30741\n250,38.89,17211\n251,38.91,22228\n252,38.9,19518\n253,38.86,35847\n254,38.865,43215\n257,38.835,734061\nTIMEZONE_OFFSET=60\na1414396920,39.815,187185\n1,39.94,34775\n2,39.865,78058\n3,39.795,83943\n4,39.785,71245\n5,39.71,125317\n6,39.605,67525\n7,39.5,104725\n8,39.41,68956\n9,39.365,56326\n10,39.37,29262\n11,39.42,83939\n12,39.465,27649\n13,39.54,42354\n14,39.485,36029\n15,39.31,51726\n16,39.27,21512\n17,39.25,44790\n18,39.285,7316\n19,39.18,21058\n20,39.06,40148\n21,39.05,44690\n22,38.86,81162\n23,38.83,76590\n24,38.62,50120\n25,38.485,66405\n26,38.46,61550\n27,38.365,67457\n28,38.395,42371\n29,38.28,71395\n30,38.465,79549\n31,38.345,49638\n32,38.37,61431\n33,38.32,98072\n34,38.275,42976\n35,38.36,40456\n36,38.38,78929\n37,38.355,39573\n38,38.43,43837\n39,38.405,101719\n40,38.375,100162\n41,38.395,65330\n42,38.39,19166\n43,38.4,32072\n44,38.405,23992\n45,38.38,38230\n46,38.32,73973\n47,38.335,13850\n48,38.375,31323\n49,38.335,29520\n50,38.23,59851\n51,38.13,60623\n52,38.005,109258\n53,37.92,51613\n54,37.69,116690\n55,37.705,156293\n56,37.9,48148\n57,37.95,45642\n58,37.955,25755\n59,38.02,21132\n60,37.855,49726\n61,37.82,18228\n62,37.755,17116\n63,37.8,14383\n64,37.77,10139\n65,37.7,11459\n66,37.685,52866\n67,37.745,28919\n68,37.725,34737\n69,37.77,19709\n70,37.76,14825\n71,37.69,18653\n72,37.735,19132\n73,37.78,7282\n74,37.93,17371\n75,37.995,21700\n76,37.97,35351\n77,37.975,14258\n78,38.07,41190\n79,37.96,30397\n80,37.935,13182\n81,37.945,4470\n82,37.985,8574\n83,37.985,12147\n84,37.98,8068\n85,37.96,12112\n86,37.95,15042\n87,37.89,15213\n88,37.85,7893\n89,37.85,5815\n90,37.855,6498\n91,37.92,7918\n92,38.02,20977\n93,38.065,9262\n94,38.105,12354\n95,38.055,1599\n96,37.98,8268\n97,37.985,18592\n98,37.995,14022\n99,38.02,7033\n100,38.03,4669\n101,38,4816\n102,38.025,3787\n103,38.025,5262\n104,38.035,4648\n105,37.985,5525\n106,37.99,8434\n107,37.975,21928\n108,37.955,11129\n109,37.935,17608\n110,37.925,8875\n111,37.96,26345\n112,37.95,17964\n113,37.96,18078\n114,37.91,12375\n115,37.9,21478\n116,37.865,10171\n117,37.825,20534\n118,37.83,16749\n119,37.825,32534\n120,37.785,17453\n121,37.75,15615\n122,37.695,31047\n123,37.705,26730\n124,37.71,3208\n125,37.8,20709\n126,37.805,15445\n127,37.71,15030\n128,37.75,11712\n129,37.735,15716\n130,37.78,4483\n131,37.78,5391\n132,37.7,9102\n133,37.71,10385\n134,37.63,16996\n135,37.645,5852\n136,37.565,33017\n137,37.55,23566\n138,37.51,32014\n139,37.495,33757\n140,37.49,25067\n141,37.49,54946\n142,37.45,18165\n143,37.445,20512\n144,37.3,35795\n145,37.38,30331\n146,37.4,36024\n147,37.37,31701\n148,37.4,11029\n149,37.315,18687\n150,37.29,29111\n151,37.27,21468\n152,37.185,67711\n153,37.21,11657\n154,37.18,24462\n155,37.19,19478\n156,37.245,29912\n157,37.275,15147\n158,37.225,16011\n159,37.225,15262\n160,37.275,12006\n161,37.27,37086\n162,37.3,19849\n163,37.36,12594\n164,37.37,7870\n165,37.33,20245\n166,37.325,13413\n167,37.3,12557\n168,37.28,12767\n169,37.385,27184\n170,37.25,19882\n171,37.325,5790\n172,37.37,5321\n173,37.31,11521\n174,37.36,14184\n175,37.31,29953\n176,37.25,22857\n177,37.29,22490\n178,37.305,15378\n179,37.305,19457\n180,37.205,22296\n181,37.19,35381\n182,37.225,12883\n183,37.295,13825\n184,37.285,31575\n185,37.44,37308\n186,37.49,33714\n187,37.515,26886\n188,37.58,44093\n189,37.54,24599\n190,37.46,23440\n191,37.5,6911\n192,37.495,8480\n193,37.49,10472\n194,37.55,20352\n195,37.47,17221\n196,37.57,20723\n197,37.565,13015\n198,37.625,8721\n199,37.65,26081\n200,37.745,26499\n201,37.84,31752\n202,37.96,38655\n203,38,75363\n204,38,30124\n205,37.93,11105\n206,37.865,35201\n207,37.76,27060\n208,37.725,22170\n209,37.725,15995\n210,37.8,18733\n211,37.755,15537\n212,37.89,16070\n213,37.95,19635\n214,38.015,20920\n215,38.06,29617\n216,38.085,32780\n217,38.13,20201\n218,38.08,22803\n219,38.05,19383\n220,38.075,18937\n221,38.05,34218\n222,38.025,62371\n223,37.96,28668\n224,37.91,19608\n225,37.96,27159\n226,37.9,13399\n227,37.85,22617\n228,37.895,6250\n229,37.845,24492\n230,37.78,10778\n231,37.755,12686\n232,37.755,25240\n233,37.775,12875\n234,37.79,5978\n235,37.71,12909\n236,37.73,5874\n237,37.725,6193\n238,37.715,8405\n239,37.705,13919\n240,37.775,19080\n241,37.79,14649\n242,37.815,22107\n243,37.82,21341\n244,37.8,11267\n245,37.79,17025\n246,37.8,16095\n247,37.8,28396\n248,37.755,28844\n249,37.8,26722\n250,37.78,43081\n251,37.78,21513\n252,37.77,61522\n253,37.785,24328\n254,37.77,23942\n257,37.765,970181\n258,37.765,5876\n259,37.765,227\n720,38.19,99702\n721,38.055,23402\n722,37.935,33738\n723,38.15,18112\n724,38.145,17121\n725,38.065,26153\n726,38.05,51241\n727,38.2,84217\n728,38.335,27931\n729,38.4,92404\n730,38.355,67913\n731,38.375,78683\n732,38.33,67563\n733,38.335,11471\n734,38.36,25346\n735,38.33,44078\n736,38.295,26814\n737,38.31,46705\n738,38.145,25971\n739,38.12,31991\n740,38.07,45773\n741,38.025,6927\n742,37.905,40110\n743,37.9,26271\n744,37.94,23869\n745,37.995,17466\n746,38.115,9003\n747,38.13,13665\n748,38.15,9309\n749,38.075,16239\n750,38.155,24646\n751,38.2,26673\n752,38.21,16669\n753,38.205,1084\n754,38.17,25188\n755,38.1,20798\n756,38.15,12034\n757,38.19,29018\n758,38.05,6578\n759,38.05,10823\n760,38.135,12850\n761,38.12,13557\n762,38.125,27259\n763,38.15,3960\n764,38.16,4647\n765,38.18,24964\n766,38.225,30545\n767,38.265,46697\n768,38.235,23835\n769,38.265,21319\n770,38.245,5697\n771,38.335,13896\n772,38.305,21523\n773,38.295,17302\n774,38.275,9042\n775,38.275,14710\n776,38.245,39878\n777,38.175,14892\n778,38.21,2753\n779,38.275,4775\n780,38.23,11164\n781,38.17,8256\n782,38.2,7517\n783,38.15,9901\n784,38.15,6951\n785,38.165,16426\n786,38.14,3502\n787,38.135,9166\n788,38.11,7471\n789,38.16,7039\n790,38.18,10044\n791,38.19,8494\n792,38.145,2806\n793,38.15,6125\n794,38.155,5746\n795,38.105,16744\n796,38.075,3232\n797,38.065,19402\n798,38.02,9645\n799,38.03,5710\n800,38.07,6303\n801,38.07,13490\n802,38.09,6707\n803,38.09,2933\n804,38.13,12236\n805,38.135,756\n806,38.175,2700\n807,38.19,2533\n808,38.22,12448\n809,38.22,24037\n810,38.21,6197\n811,38.24,22959\n812,38.285,11767\n813,38.285,14978\n814,38.31,2348\n815,38.295,18331\n816,38.275,2648\n817,38.235,9987\n818,38.255,7400\n819,38.235,3570\n820,38.26,3306\n821,38.265,19769\n822,38.31,1301\n823,38.365,25111\n824,38.38,13146\n825,38.44,55923\n826,38.42,18955\n827,38.43,5339\n828,38.45,56749\n829,38.46,2927\n830,38.455,3271\n831,38.435,8781\n832,38.47,15040\n833,38.46,15840\n834,38.45,6482\n835,38.48,8977\n836,38.485,4816\n837,38.525,25300\n838,38.525,9877\n839,38.545,6839\n840,38.5,10951\n841,38.51,3861\n842,38.57,21341\n843,38.605,3840\n844,38.61,7018\n845,38.51,8771\n846,38.515,14047\n847,38.47,5867\n848,38.47,6170\n849,38.445,3389\n850,38.465,6212\n851,38.46,10528\n852,38.47,2552\n853,38.495,6016\n854,38.525,3415\n855,38.385,36528\n856,38.415,17157\n857,38.335,19411\n858,38.38,11413\n859,38.4,20316\n860,38.39,12026\n861,38.4,15822\n862,38.465,9303\n863,38.44,11888\n864,38.42,10935\n865,38.435,3199\n866,38.415,2827\n867,38.435,754\n868,38.49,12283\n869,38.45,16596\n870,38.38,18597\n871,38.405,26251\n872,38.44,4532\n873,38.44,1834\n874,38.46,8450\n875,38.44,3146\n876,38.42,10351\n877,38.375,2510\n878,38.405,10837\n879,38.445,11282\n880,38.445,1704\n881,38.52,10952\n882,38.49,5908\n883,38.57,18052\n884,38.575,16377\n885,38.585,23145\n886,38.65,34704\n887,38.69,17414\n888,38.645,12896\n889,38.62,10292\n890,38.52,35543\n891,38.59,30208\n892,38.615,6823\n893,38.675,21149\n894,38.75,22275\n895,38.735,30366\n896,38.76,48659\n897,38.655,17320\n898,38.655,13267\n899,38.665,1960\n900,38.71,16916\n901,38.695,9088\n902,38.69,22943\n903,38.72,3610\n904,38.67,14810\n905,38.65,5256\n906,38.64,4465\n907,38.645,2044\n908,38.63,6407\n909,38.57,12086\n910,38.555,7834\n911,38.51,24733\n912,38.52,7498\n913,38.52,27151\n914,38.54,3809\n915,38.525,4401\n916,38.51,2057\n917,38.515,1142\n918,38.565,3936\n919,38.56,1872\n920,38.55,1192\n921,38.53,12972\n922,38.52,3535\n923,38.485,226\n924,38.5,4520\n925,38.53,3339\n926,38.52,4514\n927,38.56,6541\n928,38.565,15424\n929,38.53,12952\n930,38.505,14349\n931,38.485,14633\n932,38.455,7321\n933,38.44,1673\n934,38.455,8094\n935,38.46,19953\n936,38.45,20412\n937,38.48,11451\n938,38.525,7744\n939,38.52,287\n940,38.59,14044\n941,38.61,20093\n942,38.6,8905\n943,38.6,7221\n944,38.575,13679\n945,38.565,5769\n946,38.515,9059\n947,38.455,36444\n948,38.46,10807\n949,38.46,7809\n950,38.48,4066\n951,38.485,17885\n952,38.48,8694\n953,38.495,8055\n954,38.505,11095\n955,38.485,5228\n956,38.44,17702\n957,38.45,15656\n958,38.44,5747\n959,38.435,5592\n960,38.445,2563\n961,38.455,8852\n962,38.465,5415\n963,38.455,10588\n964,38.435,12032\n965,38.44,13785\n966,38.435,4428\n967,38.445,7506\n968,38.47,22833\n969,38.44,21137\n970,38.475,11036\n971,38.485,7008\n972,38.485,3037\n973,38.51,15938\n974,38.525,16442\n977,38.43,861118\na1414569720,38.85,64656\n1,38.845,5375\n2,38.765,15701\n3,38.735,14649\n4,38.77,12862\n5,38.81,19174\n6,38.775,23144\n7,38.79,10231\n8,38.81,22618\n9,38.795,8827\n10,38.755,17977\n11,38.67,16296\n12,38.46,37357\n13,38.53,18722\n14,38.505,23587\n15,38.385,29433\n16,38.31,25853\n17,38.295,23743\n18,38.32,17205\n19,38.315,33627\n20,38.17,30353\n21,38.21,8136\n22,38.19,17392\n23,38.165,18101\n24,38.18,22560\n25,38.165,32869\n26,38.115,11119\n27,38.04,13450\n28,37.94,34065\n29,37.925,14602\n30,37.86,56708\n31,37.925,68625\n32,37.95,37153\n33,38.01,27226\n34,37.975,20786\n35,37.96,13445\n36,37.915,24646\n37,38,8814\n38,38.05,13745\n39,38.085,29147\n40,38.065,10902\n41,38.1,7715\n42,38.085,18966\n43,38.17,10986\n44,38.155,6214\n45,38.19,15704\n46,38.15,32128\n47,38.175,21200\n48,38.25,14608\n49,38.225,7930\n50,38.3,25572\n51,38.35,19447\n52,38.41,7020\n53,38.4,21063\n54,38.4,3176\n55,38.435,5030\n56,38.425,2695\n57,38.335,16771\n58,38.32,5612\n59,38.32,6651\n60,38.345,16179\n61,38.37,32417\n62,38.335,10329\n63,38.31,16141\n64,38.295,6301\n65,38.27,27924\n66,38.325,15900\n67,38.325,4712\n68,38.345,9430\n69,38.375,7175\n70,38.335,4134\n71,38.33,10848\n72,38.31,16658\n73,38.285,14306\n74,38.355,12344\n75,38.355,5776\n76,38.32,10938\n77,38.295,5015\n78,38.205,16735\n79,38.105,12003\n80,38.14,17256\n81,38.185,11170\n82,38.15,17109\n83,38.14,1528\n84,38.13,6124\n85,38.11,1846\n86,38.075,5095\n87,38.065,8795\n88,38,12906\n89,37.92,14463\n90,37.87,24147\n91,37.84,26684\n92,37.88,23442\n93,37.95,5340\n94,37.95,5966\n95,37.96,2452\n96,37.975,3918\n97,37.915,7934\n98,37.9,18869\n99,37.84,9583\n100,37.78,14002\n101,37.715,27124\n102,37.74,16001\n103,37.76,2132\n104,37.745,6180\n105,37.735,5827\n106,37.75,7017\n107,37.745,1686\n108,37.745,17065\n109,37.7,20409\n110,37.77,12571\n111,37.795,11497\n112,37.85,11340\n113,37.83,17306\n114,37.955,10626\n115,38.01,30512\n116,38.03,7918\n117,38.025,28888\n118,38.035,16171\n119,37.99,25957\n120,37.985,11139\n121,37.905,27965\n122,37.865,17924\n123,37.88,15147\n124,37.875,7725\n125,37.895,8963\n126,37.905,11352\n127,37.93,9009\n128,37.93,3681\n129,37.89,6954\n130,37.875,10817\n131,37.895,6527\n132,37.91,1505\n133,37.89,3534\n134,37.91,3087\n135,37.875,9278\n136,37.85,14334\n137,37.82,6223\n138,37.785,4748\n139,37.81,1010\n140,37.815,3079\n141,37.82,2055\n142,37.805,2374\n143,37.77,16031\n144,37.79,4800\n145,37.825,9223\n146,37.805,6368\n147,37.785,8919\n148,37.745,4695\n149,37.765,1116\n150,37.73,5711\n151,37.725,5874\n152,37.775,27879\n153,37.79,1147\n154,37.805,8588\n155,37.83,16814\n156,37.835,1669\n157,37.83,3524\n158,37.855,18989\n159,37.86,2477\n160,37.88,2981\n161,37.865,4649\n162,37.9,11370\n163,37.885,3296\n164,37.87,2522\n165,37.89,4698\n166,37.87,5645\n167,37.87,8418\n168,37.85,2443\n169,37.95,12441\n170,37.955,12357\n171,37.89,5529\n172,37.785,3059\n173,37.825,9440\n174,37.78,13539\n175,37.8,6712\n176,37.83,2484\n177,37.84,10298\n178,37.825,9644\n179,37.93,16891\n180,37.925,25129\n181,37.86,1736\n182,37.87,3762\n183,37.85,5488\n184,37.8,4224\n185,37.82,8966\n186,37.8,2935\n187,37.855,4333\n188,37.875,5270\n189,37.855,1299\n190,37.85,8541\n191,37.875,9075\n192,37.905,3601\n193,37.815,1619\n194,37.875,1199\n195,37.875,4688\n196,37.835,11275\n197,37.825,15649\n198,37.76,5450\n199,37.79,2238\n200,37.775,8211\n201,37.79,6542\n202,37.8,4046\n203,37.77,2848\n204,37.73,8280\n205,37.645,26746\n206,37.645,10924\n207,37.56,28849\n208,37.595,11218\n209,37.595,19016\n210,37.52,26867\n211,37.53,11259\n212,37.545,11809\n213,37.535,14487\n214,37.51,24295\n215,37.53,31704\n216,37.535,6277\n217,37.5,31899\n218,37.515,20511\n219,37.49,19671\n220,37.5,18562\n221,37.49,7579\n222,37.5,15929\n223,37.52,14433\n224,37.51,8262\n225,37.48,4250\n226,37.435,16352\n227,37.38,9317\n228,37.295,20932\n229,37.32,21814\n230,37.33,14973\n231,37.33,10878\n232,37.315,20535\n233,37.365,22287\n234,37.385,17171\n235,37.305,21877\n236,37.32,19701\n237,37.24,26971\n238,37.145,45129\n239,37.135,28757\n240,37.04,36073\n241,37.04,49160\n242,37,54490\n243,37.015,61218\n244,37.1,47140\n245,37.165,42818\n246,37.295,46507\n247,37.22,64785\n248,37.205,25541\n249,37.26,35669\n250,37.275,61004\n251,37.285,51194\n252,37.255,62050\n253,37.275,27721\n254,37.215,45464\n257,37.285,1451778\n258,37.285,5000\n720,37.71,43026\n721,37.73,17877\n722,37.85,11583\n723,37.765,23463\n724,37.775,15520\n725,37.805,22573\n726,37.665,30155\n727,37.665,25804\n728,37.65,20269\n729,37.53,46509\n730,37.605,15275\n731,37.525,16019\n732,37.465,27588\n733,37.465,17314\n734,37.58,25784\n735,37.515,12810\n736,37.57,4935\n737,37.59,5924\n738,37.54,3398\n739,37.39,17919\n740,37.355,21958\n741,37.13,54541\n742,37.145,18293\n743,37.1,16626\n744,37.095,39210\n745,37.26,8353\n746,37.405,28238\n747,37.46,20656\n748,37.32,27537\n749,37.07,43602\n750,37.135,25718\n751,37.175,19329\n752,37.09,16647\n753,36.84,65869\n754,36.83,22466\n755,36.635,72200\n756,36.72,30031\n757,36.555,39293\n758,36.515,79853\n759,36.435,44608\n760,36.255,132713\n761,36.305,45979\n762,36.25,62647\n763,36.23,44147\n764,36.36,76812\n765,36.32,50541\n766,36.31,42817\n767,36.35,35224\n768,36.39,38131\n769,36.335,9267\n770,36.16,54578\n771,36.12,38988\n772,36.155,16132\n773,36.015,76401\n774,36.04,84824\n775,36.085,73985\n776,36.08,18836\n777,36.03,16674\n778,36.175,19364\n779,36.2,26918\n780,36.325,21538\n781,36.35,36228\n782,36.47,35639\n783,36.44,45508\n784,36.46,30238\n785,36.55,78109\n786,36.465,26038\n787,36.425,52208\n788,36.43,11625\n789,36.535,19095\n790,36.59,27543\n791,36.57,33105\n792,36.49,20046\n793,36.51,18357\n794,36.49,19140\n795,36.43,16954\n796,36.335,20099\n797,36.36,13788\n798,36.38,8807\n799,36.42,18239\n800,36.26,65837\n801,36.22,16408\n802,36.185,16645\n803,36.05,43253\n804,36.03,127021\n805,36.115,53688\n806,36.105,26787\n807,36.07,30499\n808,36.04,30766\n809,36.09,8536\n810,36.085,24397\n811,36.09,28743\n812,36.135,17345\n813,36.155,13634\n814,36.235,23450\n815,36.13,31471\n816,36.16,14209\n817,36.09,14857\n818,36.09,10220\n819,36.11,6293\n820,36.2,26344\n821,36.12,10003\n822,36.085,21324\n823,36.14,19837\n824,36.1,16470\n825,36.075,20063\n826,36.03,11395\n827,35.97,106380\n828,36.065,14150\n829,36.015,15235\n830,36,25837\n831,35.98,13174\n832,36.005,26778\n833,36,13219\n834,36,14213\n835,35.965,47992\n836,35.965,20068\n837,35.96,7286\n838,36.035,25088\n839,36.05,10283\n840,36.055,22873\n841,36.025,52910\n",_5Y:"EXCHANGE%3DEPA\nMARKET_OPEN_MINUTE=540\nMARKET_CLOSE_MINUTE=1060\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA=\nTIMEZONE_OFFSET=60\na1256920800,45.38,31484535,5\n1,46.915,22244690,5\n2,49.94,15089646,5\n3,47.425,14355699,5\n4,46.5,18000741,5\n5,48.935,18796695,5\n6,48.38,12975178,5\n7,46.3,19012320,5\n10,52.08,12614367,5\n11,49.025,17445614,5\n12,42.44,24984760,5\n13,42.205,27534912,5\n14,38.38,29575320,5\n15,39,27121337,5\n16,39.7,28407068,5\n17,40.4,21190204,5\n18,44.95,20739049,5\n19,44.28,19143465,5\n20,45,21251777,5\n21,47.145,19099898,5\nTIMEZONE_OFFSET=120\na1270827600,45.89,15319810,4\n1,45.205,23308822,5\n2,43.1,23528475,5\n3,40.4,34227738,5\n4,32.77,48741759,5\n5,35.25,50494637,5\n6,35.235,34971205,5\n7,35.55,31617818,5\n8,31.585,29566228,5\n9,33.725,34964205,5\n10,38.23,32875873,5\n11,35.78,25322962,5\n12,32.9,23173494,5\n13,38.395,29968703,5\n14,36.3,21257802,5\n15,38,21567685,5\n16,44.235,39115243,5\n17,45.52,24745120,5\n18,43.37,19658008,5\n19,41.095,15128621,5\n20,40.45,14514913,5\n21,44.375,18560565,5\n22,43.91,21265414,5\n23,44,24833082,5\n24,45.21,19452674,5\n25,41.4,23598391,5\n26,43.375,19651836,5\n27,41.52,18738932,5\n28,43.5,17216146,5\n29,43.025,13527126,5\nTIMEZONE_OFFSET=60\na1288975200,44.015,26290018,5\n1,42.41,19527281,5\n2,41.84,17983945,5\n3,38.41,22017349,5\n4,39.305,32327805,5\n5,41.315,20659346,5\n6,41.29,19355857,5\na1293195600,42.135,10199317,5\n1,40.22,5272259,5\na1294418400,40.88,16310424,5\n1,45.19,30343296,5\n2,48.08,26935167,5\n3,48.32,28535408,5\n4,46.805,22122078,5\n5,48.4,22573424,5\n6,51.93,33183189,5\n7,49.54,23791886,5\n8,47.515,26217655,5\n9,46.75,21917905,5\n10,46.435,41051286,5\n11,48.35,20650534,5\nTIMEZONE_OFFSET=120\na1301672400,47.11,21084629,5\n1,47.85,26355405,5\n2,45.225,16076264,5\na1303400400,43.49,18942243,4\na1304091600,45.16,16366541,4\n1,43.32,25584095,5\n2,42.2,26350076,5\n3,41.99,24889383,5\n4,42.31,22672977,5\n5,40.985,36692388,5\n6,39.05,19749093,5\n7,39.09,30582969,5\n8,37.775,24225729,5\n9,42.44,25311074,5\n10,38.525,24829255,5\n11,34.7,34224922,5\n12,38.075,38680819,5\n13,34.735,26212425,5\n14,27.435,49518016,5\n15,24.3,96305553,5\n16,20.87,34040742,5\n17,21.33,23810930,5\n18,22.165,24696344,5\n19,17.445,40695866,5\n20,18.96,77623516,5\n21,16.645,41597622,5\n22,20,56882816,5\n24,20.835,38355053,5\n25,18.97,34835454,5\n26,23.39,43827754,5\nTIMEZONE_OFFSET=60\na1320424800,17.925,61725826,5\n1,18.855,42399346,5\n2,16.665,25118539,5\n3,15.83,25914763,5\n4,18.905,39307514,5\n5,19.555,43226182,5\n6,16.545,35950982,5\n7,17.22,24863501,5\n8,17.205,12229443,4\n9,15.565,26378609,5\n10,16.34,36211733,5\n11,21.005,52523441,5\n12,21.07,51666108,5\n13,24.25,43617228,5\n14,23.25,42561354,5\n15,24.025,49210549,5\n16,24.43,40751108,5\n17,25.395,40050046,5\n18,24.415,38915794,5\n19,25.22,36816973,5\n20,23.935,29147818,5\nTIMEZONE_OFFSET=120\na1333122000,21.965,31247171,5\na1333640400,20.225,35175616,4\na1334331600,17.805,39673817,4\n1,17.3,60887444,5\n2,18.16,52368751,5\n3,17.295,40570909,4\n4,17.21,40738306,5\n5,15.82,46580835,5\n6,16.27,35621259,5\n7,15.965,37708126,5\n8,17.515,44120490,5\n9,17.78,47005623,5\n10,17.795,43994343,5\n11,18.41,42981817,5\n12,17.525,41974741,5\n13,17.18,30240300,5\n14,16.39,32419225,5\n15,18,44818599,5\n16,18.525,47864270,5\n17,20.07,36776916,5\n18,21.55,20591561,5\n19,20.57,32089675,5\n20,21.05,22643559,5\n21,24.49,42900774,5\n22,24.75,43432900,5\n23,23.795,34190696,5\n24,22.1,28345137,5\n25,23.75,26314530,5\n26,23.975,23935839,5\n27,26.1,36697293,5\n28,24.64,27816825,5\nTIMEZONE_OFFSET=60\na1351874400,25.39,17791820,5\n1,24.62,26967066,5\n2,24.435,19380248,5\n3,27.135,19416700,5\n4,27.805,17959058,5\n5,29.275,22344673,5\n6,29.245,18472462,5\n7,28.875,21098793,5\n8,28.15,5623841,3\n9,29.33,11913125,4\n10,32.895,29569457,5\n11,33.24,29285826,5\n12,33.725,18590872,5\n13,33.74,21881103,5\n14,31.95,24394065,5\n15,29.99,30378085,5\n16,29.82,23815602,5\n17,28.65,34778394,5\n18,30.845,23161939,5\n19,29.975,21511638,5\n20,27.43,33940390,5\na1364488800,25.63,39974797,4\nTIMEZONE_OFFSET=120\na1365176400,25.395,22349643,4\n1,26.4,31244435,5\n2,24.78,33051231,5\n3,26.725,26246495,5\n4,28.545,22739055,4\n5,30.065,26999970,5\n6,31.5,25551708,5\n7,30.635,26668893,5\n8,30.86,19998654,5\n9,30.145,24000236,5\n10,28.56,26267611,5\n11,26.95,26964321,5\n12,26.4,32737447,5\n13,26.995,32237594,5\n14,27.895,21472654,5\n15,29.28,23566187,5\n16,30.445,21117796,5\n17,34.055,38263286,5\n18,35.74,29595445,5\n19,35.92,22426562,5\n20,34.895,23025942,5\n21,33.115,23024038,5\n22,34.81,22181037,5\n23,36.8,26170330,5\n24,37.9,26424894,5\n25,37.165,14977170,5\n26,38.92,20541776,5\n27,40.595,22228918,5\n28,42.48,17904324,5\n29,40.9,18507558,5\nTIMEZONE_OFFSET=60\na1383324000,41.62,17946250,5\n1,40.77,28694599,5\n2,41.475,17728145,5\n3,40.565,19761122,5\n4,42.335,15382660,5\n5,40.42,19536975,5\n6,39.455,15783963,5\n7,40.895,23056099,5\n8,42.005,5955497,3\n9,41.325,8554496,4\n10,44,26757083,5\n11,44.85,22551725,5\n12,42.8,21236723,5\n13,42.08,27029391,5\n14,43.895,26977675,5\n15,47.2,27439481,5\n16,47.29,16383549,5\n17,48.375,18996280,5\n18,46.91,31685551,5\n19,44,22339586,5\n20,44.705,22834871,5\n21,44.555,18687094,5\nTIMEZONE_OFFSET=120\na1396626000,47.645,20721755,5\n1,43.76,24227616,5\na1397749200,43.195,19670592,4\na1398440400,43.2,14317879,4\n1,44.935,15874764,4\n2,44.15,22816458,5\n3,41.655,28005765,5\n4,42.375,21615385,5\n5,42.265,19096728,5\n6,44.38,26059326,5\n7,42.185,21305789,5\n8,40.87,19945762,5\n9,38.985,18240712,5\n10,39.205,24462142,5\n11,36.82,28064206,5\n12,38.01,23825435,5\n13,38.645,19594569,5\n14,36.84,24635656,5\n15,35.59,27591084,5\n16,35.785,21046294,5\n17,37.54,16174689,5\n18,38.555,20318140,5\n19,41.41,30692704,5\n20,41.655,16950476,5\n21,41.39,22038706,5\n22,40.675,21788146,5\n23,39.55,26495447,5\n24,36.79,28174143,5\n25,36.195,45289273,5\n26,38.835,29264291,5\n",corp_actions:"[{\"_quote\":\"EPA:GLE\",\"_type\":\"split\",\"_date\":\"958028400\",\"_old_shares\":\"1\",\"_new_shares\":\"4\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"645087600\",\"_amount\":\"3.8\",\"_amount_currency\":\"FRF\",\"_payable_date\":\"645087600\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"676537200\",\"_amount\":\"3.8\",\"_amount_currency\":\"FRF\",\"_payable_date\":\"679906800\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"708073200\",\"_amount\":\"3.8\",\"_amount_currency\":\"FRF\",\"_payable_date\":\"708073200\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"739436400\",\"_amount\":\"3.8\",\"_amount_currency\":\"FRF\",\"_payable_date\":\"743065200\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"770886000\",\"_amount\":\"4.0\",\"_amount_currency\":\"FRF\",\"_payable_date\":\"770886000\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"802422000\",\"_amount\":\"4.0\",\"_amount_currency\":\"FRF\",\"_payable_date\":\"802422000\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"832575600\",\"_amount\":\"4.0\",\"_amount_currency\":\"FRF\",\"_payable_date\":\"832575600\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"864111600\",\"_amount\":\"4.38\",\"_amount_currency\":\"FRF\",\"_payable_date\":\"864111600\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"895042800\",\"_amount\":\"5.2\",\"_amount_currency\":\"FRF\",\"_payable_date\":\"895042800\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"927874800\",\"_amount\":\"0.937562\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"927874800\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"956646000\",\"_amount\":\"1.6\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"956646000\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"989564400\",\"_amount\":\"2.1\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"989564400\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1019718000\",\"_amount\":\"2.1\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1019718000\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1051167600\",\"_amount\":\"2.1\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1051167600\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1084863600\",\"_amount\":\"2.5\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1084863600\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1117436400\",\"_amount\":\"3.3\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1117436400\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1149577200\",\"_amount\":\"4.5\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1149577200\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1179730800\",\"_amount\":\"5.2\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1179730800\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1203494400\",\"_amount\":\"6.420\",\"_amount_currency\":\"USD\",\"_payable_date\":\"1204185600\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1212476400\",\"_amount\":\"0.9\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1212735600\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1212649200\",\"_amount\":\"0.9000\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1212735600\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1243321200\",\"_amount\":\"1.200\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1245394800\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1243407600\",\"_amount\":\"1.2\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1245394800\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1275289200\",\"_amount\":\"0.2500\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1277276400\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1275375600\",\"_amount\":\"0.25\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1277276400\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1306738800\",\"_amount\":\"1.750\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1308898800\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1306825200\",\"_amount\":\"1.75\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1308898800\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1369724400\",\"_amount\":\"0.4500\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1372057200\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1369810800\",\"_amount\":\"0.45\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1372057200\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1401174000\",\"_amount\":\"1.0\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1401433200\"},{\"_quote\":\"EPA:GLE\",\"_type\":\"dividend\",\"_date\":\"1401346800\",\"_amount\":\"1.00000\",\"_amount_currency\":\"EUR\",\"_payable_date\":\"1401433200\"}]",related_items:[{ticker:"INDEXFTSE:UKX",name:"FTSE 100",timezone_offset:3600,is_index:true,different_market_session:false},{ticker:"EPA:ACA",name:"ACA",timezone_offset:3600,is_index:false},{ticker:"EPA:ALENR",name:"ALENR",timezone_offset:3600,is_index:false},{ticker:"ETR:SIE",name:"SIE",timezone_offset:3600,is_index:false},{ticker:"EPA:EN",name:"EN",timezone_offset:3600,is_index:false},{ticker:"EPA:BNP",name:"BNP",timezone_offset:3600,is_index:false},{ticker:"EPA:MLCFM",name:"MLCFM",timezone_offset:3600,is_index:false},{ticker:"EPA:CS",name:"CS",timezone_offset:3600,is_index:false},{ticker:"BIT:ISP",name:"ISP",timezone_offset:3600,is_index:false}]}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+_setStickyUrlParams("ei=OClSVLHPCuaZwQOBgYGQDw");
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+google.finance.renderRecentQuotes();
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div id=r-perf class="g-section g-tpl-67-33 g-split nwp">
+<div id=r-perf-quotes class="id-r-perf-quotes g-unit g-first"></div>
+<div id=r-perf-charts class="id-r-perf-charts g-unit"></div>
+</div>
+<script>google.finance.renderRelativePerformance();</script>
+</div>
+</div>
+<div class=g-unit>
+<div id=market-data-div class="id-market-data-div nwp g-floatfix">
+<div id=price-panel class="id-price-panel goog-inline-block">
+<div>
+<span class="pr">
+<span id="ref_673457_l">36.03</span>
+</span>
+<div class="id-price-change nwp">
+<span class="ch bld"><span class="chr" id="ref_673457_c">-1.26</span>
+<span class="chr" id="ref_673457_cp">(-3.38%)</span>
+</span>
+</div>
+</div>
+<div>
+<span class=nwp>
+Real-time:
+&nbsp;
+<span id="ref_673457_ltt">
+1:03PM GMT+1
+</span>
+</span>
+<div class=mdata-dis>
+<span class=dis-large><nobr>EPA
+real-time data -
+<a href="//www.google.com/help/stock_disclaimer.html#realtime"  class=dis-large>Disclaimer</a>
+</nobr></span>
+<div>Currency in EUR</div>
+</div>
+</div>
+</div>
+<div class="snap-panel-and-plusone">
+<div class="snap-panel">
+<table class="snap-data">
+<tr>
+<td class="key"
+          data-snapfield="range">Range
+</td>
+<td class="val">35.92 - 37.88
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="range_52week">52 week
+</td>
+<td class="val">32.44 - 48.69
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="open">Open
+</td>
+<td class="val">37.71
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="vol_and_avg">Vol / Avg.
+</td>
+<td class="val">3.76M/6.01M
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="market_cap">Mkt cap
+</td>
+<td class="val">29.01B
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="pe_ratio">P/E
+</td>
+<td class="val">16.40
+</td>
+</tr></table><table class="snap-data">
+<tr>
+<td class="key"
+          data-snapfield="latest_dividend-dividend_yield">Div/yield
+</td>
+<td class="val">1.00/2.78
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="eps">EPS
+</td>
+<td class="val">2.20
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="shares">Shares
+</td>
+<td class="val">779.95M
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="beta">Beta
+</td>
+<td class="val">&nbsp;&nbsp;&nbsp;&nbsp;-
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="inst_own">Inst. own
+</td>
+<td class="val">&nbsp;&nbsp;&nbsp;&nbsp;-
+</td>
+</tr>
+</table>
+</div>
+<div class="plusone-box" id="plusone-box">
+<g:plusone size="standard" source="google:FINANCE"></g:plusone></div>
+</div>
+</div>
+<script>google.finance.renderMarketData();</script>
+<div id="sharebox-data"
+     itemscope="itemscope"
+     itemtype="http://schema.org/Intangible/FinancialQuote">
+<meta itemprop="name"
+        content="Societe Generale SA" />
+<meta itemprop="url"
+        content="https://www.google.com/finance?cid=673457" />
+<meta itemprop="imageUrl"
+        content="https://www.google.com/finance/chart?cht=g&q=EPA:GLE&tkr=1&p=1d&enddatetime=2014-10-30T13:03:54Z" />
+<meta itemprop="tickerSymbol"
+        content="GLE" />
+<meta itemprop="exchange"
+        content="EPA" />
+<meta itemprop="exchangeTimezone"
+        content="Europe/Paris" />
+<meta itemprop="price"
+        content="36.03" />
+<meta itemprop="priceChange"
+        content="-1.26" />
+<meta itemprop="priceChangePercent"
+        content="-3.38" />
+<meta itemprop="quoteTime"
+        content="2014-10-30T13:03:54Z" />
+<meta itemprop="dataSource"
+        content="EPA real-time data" />
+<meta itemprop="dataSourceDisclaimerUrl"
+        content="//www.google.com/help/stock_disclaimer.html#realtime" />
+<meta itemprop="priceCurrency"
+        content="EUR" />
+</div>
+</div>
+</div>
+<div class="g-section g-tpl-right-1 sfe-break-top-5">
+<div class="g-unit g-first">
+<div class=g-c><div>
+<div id=newstabsgroup>
+<div class="g-section g-tpl-25-75 g-split hdg">
+<div class="g-unit g-first">
+<h3>News</h3>
+</div>
+<div class=g-unit>
+<div id=news-panel-tabs class="id-news-tabs" style="display:none;">
+<div class="goog-tab goog-tab-selected">
+<a id=news_tab_title class=t>
+<b class=t><b class=t>Relevance</b></b></a>
+</div>
+<div class=goog-tab>
+<a id=news_by_date_tab_title class=t>
+<b class=t><b class=t>Date</b></b></a>
+</div>
+</div>
+</div>
+</div>
+<div id=tabs-clear class="id-tabs-clear goog-tab-bar-clear hide"></div>
+<div id=news_div_cont class=id-news_div_cont style="display:none;"></div>
+<div id=news_by_date_div_cont class=id-news_by_date_div_cont style="display:none;"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first">
+<a href="/finance/company_news?q=EPA:GLE&amp;ei=OClSVLHPCuaZwQOBgYGQDw" >All news for Societe Generale SA &raquo;</a>
+</div><div class=g-unit>
+<a href="/finance/company_news?q=EPA:GLE&amp;ei=OClSVLHPCuaZwQOBgYGQDw&output=rss">Subscribe</a>
+<a href="/finance/company_news?q=EPA:GLE&amp;ei=OClSVLHPCuaZwQOBgYGQDw&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div class=hdg><h3>Key stats and ratios</h3></div>
+<div class=sfe-section>
+<table class="quotes rgt nwp" width="100%">
+<thead><tr>
+<td width=50%>
+<td class=colHeader>Q2 (Jun &#39;14)
+<td class=colHeader>2013
+</tr></thead>
+<tr>
+<td class="lft name">Net profit margin
+<td class=period>3.37%
+<td class=period>2.69%
+<tr>
+<td class="lft name">Operating margin
+<td class=period>4.52%
+<td class=period>3.29%
+<tr>
+<td class="lft name">EBITD margin
+<td class=period>-
+<td class=period>17.66%
+<tr>
+<td class="lft name">Return on average assets
+<td class=period>0.34%
+<td class=period>0.19%
+<tr>
+<td class="lft name">Return on average equity
+<td class=period>7.10%
+<td class=period>3.41%
+<tr>
+<td class="lft name">Employees
+<td class=period>148,000
+<td class=period>-
+<tr>
+<td class="lft name">CDP Score
+<td class=period>-
+<td class=period>
+<a id=m-cdi href=//www.google.com/url?source=finance&q=https%3A%2F%2Fwww.cdp.net%2Fen-US%2FResults%2FPages%2FCompany-Responses.aspx%3Fcompany%3D17320&ei=OClSVLHPCuaZwQOBgYGQDw&usg=AFQjCNFQ-WPZRW9jviMTGJZIABegaTcraw>85 B</a>
+</table>
+<div class=sfe-break-top>
+<a id="m-rratio" href=//www.google.com/url?source=finance&q=http%3A%2F%2Fstocks.us.reuters.com%2Fstocks%2Fratios.asp%3Frpc%3D66%26symbol%3DSOGN.PA&ei=OClSVLHPCuaZwQOBgYGQDw&usg=AFQjCNFVTkBV22BrjBlWrn5-uQwmNPNp6w >
+More ratios from Thomson Reuters &raquo;</a></div>
+</div>
+<div class=hdg><h3>Address</h3></div>
+<div class=sfe-section>29 boulevard Haussmann<br/>PARIS, 75009<br/>France<br/>+33-1-42142000 (Phone)<br>+33-1-42136000 (Fax)<br>
+</div>
+<div class=hdg><h3>Website links</h3></div>
+<div class=sfe-section><div class=item>
+<a id=fs-chome href="//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.societegenerale.com&ei=OClSVLHPCuaZwQOBgYGQDw&usg=AFQjCNHHPcYCdDYN3QiMofrHgScfngdsUg" >
+http://www.societegenerale.com
+</a>
+</div>
+</div>
+<div class=hdg><h3>External links</h3></div>
+<div class=sfe-section>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div id=top-section class="g-c sfe-break-right">
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper class=id-compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor></div>
+<div class=id-chart-footer>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8 overflow-floatfix">
+<div class="g-unit g-first"><div class="id-chart-footer-links hide">
+<span class=settings-link>Settings</span> |
+<span class=technicals-link>Technicals</span> |
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="Link to chart icon."
+            class="linktochart-img SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<span class=linktochart-link>
+Link to this view</span>
+</span>
+</div></div>
+<div class="g-unit">
+<span class="chart-dis">
+</span>
+</div>
+</div>
+</div>
+<script>
+var _minZoomDays = 1;
+var _minZoomDaysNoIntraDay = _minZoomDays;
+var _timeZoneOffset = '3600';
+_chartConfigObject = {};
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = false;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '673457';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 1;
+_chartConfigObject.stateRemainingMinutes = 275;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.enableChartTypeSetting = true;
+_chartConfigObject.lineStyle = 'IntervalBasedLine';
+_chartConfigObject.defaultInterval = '86400';
+_chartConfigObject.enableIndicatorSetting = true;
+_chartConfigObject.biasSetting = '';
+_chartConfigObject.emaSetting = '';
+_chartConfigObject.kdjSetting = '';
+_chartConfigObject.macdSetting = '';
+_chartConfigObject.rsiSetting = '';
+_chartConfigObject.smaSetting = '';
+_chartConfigObject.vmaSetting = '';
+_chartConfigObject.cciSetting = '';
+_chartConfigObject.williamsPercentRSetting = '';
+_chartConfigObject.bollingerBandsSetting = '';
+_chartConfigObject.fastStochasticSetting = '';
+_chartConfigObject.slowStochasticSetting = '';
+_chartConfigObject.expandButtonEnabled = true;
+_chartConfigObject.companyCurrency = 'EUR';
+_chartConfigObject.displayDividendsUnits = 'false';
+var configStringFromCookie = '{}';
+var configString = unescape(configStringFromCookie);
+var obj = eval('(' + configString + ')');
+for (var attribute in obj) {
+_chartConfigObject[attribute] = obj[attribute];
+}
+_external_target = "";
+_emitFlashChart(
+"/finance/s/Med12Cbcdb8/chart9.swf?hl=en&gl=us",
+_ticker, _chartConfigObject,"http:\x2F\x2Fwww.google.com:80");
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=GLE&x=EPA&p=3d&i=240&ei=OClSVLHPCuaZwQOBgYGQDw" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+<div style="height:1em;"></div>
+</div>
+</div>
+</div>
+<div class="g-c sfe-break-right">
+<div id=related class="id-related hide">
+<div class=hdg>
+<div class=float>
+<h3>Related companies</h3>
+</div>
+</div>
+<div>
+<div class="g-section g-tpl-50-50 g-split gf-control">
+<div class="g-unit g-first">
+Show:
+<select id=related-select class=id-related-select>
+<option value=mrq >
+Most Recent Quarter
+</option>
+<option value=mra selected>
+Most Recent Annual
+</option>
+</select>
+</div>
+<div class=g-unit>
+<span class="id-related-edit-col linkbtn">Add or remove columns</span>
+<button class=id-related-save style="display:none">Save changes</button>
+<button class=id-related-cancel style="display:none">Cancel</button>
+</div>
+</div>
+</div>
+<div class="id-related-table gf-table-scroll-x jfk-scrollbar"
+       style="padding-bottom:15px;">
+</div>
+<div class=sfe-section>
+<div class="g-section g-tpl-50-50 g-split">
+<div class="g-unit g-first">
+</div><div class=g-unit>
+<a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.factset.com%2Fdata%2Ffactset_data%2Findustry-and-sector&ei=OClSVLHPCuaZwQOBgYGQDw&usg=AFQjCNHQFt61pX_CXk_APFFo7HLt3FoPAA" >More from FactSet &raquo;</a>
+</div>
+</div>
+</div>
+</div>
+<div id=reorder class=id-reorder><div class=mid-reorder>
+<div id=blogs-section
+>
+</div>
+<div id=summary-section
+>
+<div id=summary>
+<div class=hdg><div class=float>
+<h3>Description</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<div class=companySummary>
+Societe Generale SA is a financial services company. The Company offers advisory and other services to individual customers, companies and institutions. The Company operates in five divisions: French Networks, International Retail Banking, Corporate and Investment Banking, Specialised Financial Services and Insurance, and Private Banking, Global Investment Management and Services. It operates Retail Banking in France under the Societe Generale, Credit du Nord and Boursorama brands. Its International Retail Banking is present in Central and Eastern Europe, Russia, the Mediterranean Basin, Sub-Saharan Africa, Asia and in the French Overseas territories. Private Banking, Global Investment Management and Services consist of four activities: Private Banking, Asset Management, Societe Generale Securities Services and Brokers. In May 2014, it acquired Credit Agricole's 50% stake in the capital of Newedge, a derivatives brokerage subsidiary, thus bringing its ownership to 100%.
+<div class=sfe-break-top>
+<a id=m-rprofile href=//www.google.com/url?source=finance&q=http%3A%2F%2Fstocks.us.reuters.com%2Fstocks%2FfullDescription.asp%3Frpc%3D66%26symbol%3DSOGN.PA&ei=OClSVLHPCuaZwQOBgYGQDw&usg=AFQjCNFSRiJV0TACISH7H5l3miDgK5FkYg >
+More from Reuters &raquo;
+</a></div>
+</div>
+</div>
+</div>
+</div><script>_tck('aft');</script>
+<div id=mgmt-section
+>
+<div id=management style="margin-bottom:1.5em;">
+<div class=hdg><div class=float>
+<h3>Officers and directors</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<table class=id-mgmt-table width=100%><tbody>
+<tr >
+<td class="p linkbtn">Frederic Oudea
+<td class=i>
+<td class=t>Chairman of the Board, Chief Executive Officer, Member of the Executive Committee and Group Management Committee
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 50<br>
+<tr class=grey-top>
+<td class="p linkbtn">Severin Cabannes
+<td class=i>
+<td class=t>Deputy Chief Executive Officer, Member of the Executive Committee and Group Management Committee
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 55<br>
+<tr class=grey-top>
+<td class="p linkbtn">Bernardo Sanchez Incera
+<td class=i>
+<td class=t>Deputy Chief Executive Officer, Member of the Executive Committee and Group Management Committee
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 54<br>
+<tr class=grey-top>
+<td class="p linkbtn">Jean-Francois Sammarcelli
+<td class=i>
+<td class=t>Deputy Chief Executive Officer - French Retail Banking, Member of the Executive Committee and Group Management Committee
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 63<br>
+<tr class=grey-top>
+<td class="p linkbtn">Anthony Wyand
+<td class=i>
+<td class=t>Vice Chairman of the Board
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 70<br>
+<tr class=grey-top>
+<td class="p linkbtn">Philippe Heim
+<td class=i>
+<td class=t>Group Chief Financial Officer, Member of the Group Management Committee, Member of the Executive Committee
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 46<br>
+<tr class=grey-top>
+<td class="p linkbtn">Igor Stanislavovich Antonov
+<td class=i>
+<td class=t>Interim Chief Executive Officer of Rosbank
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 50<br>
+<tr class=grey-top>
+<td class="p linkbtn">Alain Benoist
+<td class=i>
+<td class=t>Head of Processes and Information Systems, Member of the Management Committee
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<tr class=grey-top>
+<td class="p linkbtn">Patrick Suet
+<td class=i>
+<td class=t>Corporate Secretary and Group Chief Compliance Officer, Member of the Executive Committee and Group Management Committee
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 60<br>
+<tr class=grey-top>
+<td class="p linkbtn">Benoit Ottenwaelter
+<td class=i>
+<td class=t>Group Chief Risk Officer, Member of the Executive Committee and Group Management Committee
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 60<br>
+</table>
+<div class=gb>
+<a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fstocks.us.reuters.com%2Fstocks%2FofficersDirectors.asp%3Fsymbol%3DSOGN.PA%26WTmodLOC%3DC4-Officers-5&ei=OClSVLHPCuaZwQOBgYGQDw&usg=AFQjCNErfN77dB92w80IHDDvntvdAbJ8Eg" >
+Full list on Reuters &raquo;</a></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div></div><div id=gf-foot><div id=fjfe-edition-links class=fjfe-footer-links>Google Finance Beta available in: <a href="http://www.google.com.hk/finance?ei=OClSVLHPCuaZwQOBgYGQDw" class="fjfe-edition-link">Hong Kong</a> - <a href="http://www.google.ca/finance?ei=OClSVLHPCuaZwQOBgYGQDw" class="fjfe-edition-link">Canada</a> - <a href="http://www.google.com/finance?ei=OClSVLHPCuaZwQOBgYGQDw" class="fjfe-edition-link">U.S.</a> - <a href="http://www.google.com.hk/finance?hl=zh-CN&ei=OClSVLHPCuaZwQOBgYGQDw" class="fjfe-edition-link">China</a> - <a href="http://www.google.co.uk/finance?ei=OClSVLHPCuaZwQOBgYGQDw" class="fjfe-edition-link">U.K.</a></div><p class=fjfe-footer-disclaimer>Information is provided "as is" and solely for informational purposes, not for trading purposes or advice, and may be delayed.<br>To see all exchange delays, please <a href="http://www.google.com/intl/en/googlefinance/disclaimer/?ei=OClSVLHPCuaZwQOBgYGQDw" class="fjfe-secondary-link fjfe-no-sticky-params"> see disclaimer</a>.</p><div class=fjfe-footer-links>&copy;2014 Google - <a href="http://www.google.com?hl=en&ei=OClSVLHPCuaZwQOBgYGQDw">Google Home</a> - <a href="http://googlefinanceblog.blogspot.com?ei=OClSVLHPCuaZwQOBgYGQDw">Blog</a> - <a href="http://support.google.com/finance?hl=en&ei=OClSVLHPCuaZwQOBgYGQDw">Help</a> - <a href="http://support.google.com/finance?ctx=report&hl=en&ei=OClSVLHPCuaZwQOBgYGQDw&exch=EPA&sym=GLE">Report a Problem</a> - <a href="http://www.google.com/intl/en/policies/privacy/?ei=OClSVLHPCuaZwQOBgYGQDw">Privacy Policy</a> - <a href="http://www.google.com/intl/en/policies/terms/?ei=OClSVLHPCuaZwQOBgYGQDw">Terms of Service</a></div></div>
+<script>
+var _chartConfigObject;
+var _cleardot;
+var _companyName;
+var _eventid = 'OClSVLHPCuaZwQOBgYGQDw';
+var _expid;
+var _external_target;
+var _localDomain = 'www.google.com';
+var _minZoomDays;
+var _minZoomDaysNoIntraDay;
+var _prefs;
+var _ticker;
+var _urlSuffix;
+_setStickyUrlParams("ei=OClSVLHPCuaZwQOBgYGQDw");
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+</script>
+</div></div><script>var googlefinance = {i: ["f.b.id","",null,0,"",0,null,["f.b.cf","f4NsnyBA6kY.en_US.",0],[],0,[],"OClSVLHPCuaZwQOBgYGQDw","www.google.com","cRYMsB33avCLhxk6AEtArAuVPHY:1414670649630",1]}; GF_domReady = 1;</script></body></html>

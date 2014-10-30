@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.min.css" />
+	 <style>.btn-custom {
+  background-color: #0a0a0a;
+  border-color: #0a0a0a;
+}
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active {
+  background-color: #000000;
+  border-color: #000000;
+}
+.btn-custom.disabled:hover,
+.btn-custom.disabled:focus,
+.btn-custom.disabled:active,
+.btn-custom.disabled.active,
+.btn-custom[disabled]:hover,
+.btn-custom[disabled]:focus,
+.btn-custom[disabled]:active,
+.btn-custom[disabled].active,
+fieldset[disabled] .btn-custom:hover,
+fieldset[disabled] .btn-custom:focus,
+fieldset[disabled] .btn-custom:active,
+fieldset[disabled] .btn-custom.active {
+  background-color: #0a0a0a;
+  border-color: #0a0a0a;
+}
+</style>
+		 <script  type="text/javascript"  src="../js/jquery.js"></script>
+	
+<!--	 <script  type="text/javascript"  src="../js/bootstrap.js"></script>  navbar-fixed-top-->
+	<script  type="text/javascript"  src="../js/bootstrap.min.js"></script>
+	 
+	 
+	 
+    <title>Welcome to Gold Trading</title>
+    
+  </head>
+
+<body style="padding-top: 50px; ">
+
+
+       <!-- Bar de menu *************************************************************************************************** -->
+ 		<nav class="navbar navbar-default navbar-fixed-top" role="navigation"  >
+ 	   <div class="container" >
+    <!-- Brand and toggle get grouped for better mobile display -->
+    		<div class="navbar-header">
+      			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+       			 <span class="sr-only">Toggle navigation</span>
+        		 <span class="icon-bar"></span>
+       			 <span class="icon-bar"></span>
+        		 <span class="icon-bar"></span>
+      			 </button>
+      			<a class="navbar-brand active" href="accueil.html"><p style="font:15px verdana; color:#000;">G<img src="../images/ausymbol.png" alt="" style="height:30px;"/>LD TRADING</p></a>
+      			  
+    		</div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      			<ul class="nav navbar-nav">
+				
+       			<li><a href="wallet.html">My Wallet</a></li>
+        		<li><a href="chatroom.html">ChatRoom</a></li>
+        		<li><a href="news.html">News</a></li>
+        		
+        		   
+        		<li ><a class="glyphicon glyphicon-envelope" href="messages.html">&nbsp<span class="badge">0</span></a></li>  
+        		<li ><a id="add-admin"></a></li>  
+        		<li><a id="p-heure" style="color:black; font-style: italic"></a></li> 
+      			</ul>
+      
+      			<ul class="nav navbar-nav navbar-right">
+      			
+      			
+        		<li class="dropdown">
+         		<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span id="nom_client"></span> <b class="caret"></b></a>
+          		<ul class="dropdown-menu">
+            	<li><a href="settings.html">Settings</a></li>
+            	<li><a href="contacts.html">Contacts</a></li>
+            
+            	<li class="divider"></li>
+            		<li><a class="p-logout" >Logout</a></li>
+          		</ul>
+        		</li>
+      			</ul>
+    	    </div><!-- /.navbar-collapse -->
+  		</div><!-- /.container-fluid -->
+		</nav>
+	<!-- fin menu *********************************************************************************************************  -->
+
+<div class="container-fluid">
+   <div class = "row"> 
+   		<div class="col-md-12"  style="height:  auto; padding: 15px; margin-bottom: 20px; padding-bottom:60px; padding-top:30px; background-image: linear-gradient(to bottom,#124629,#47A27B 100%);">
+			<h1 class="col-md-9 col-md-offset-1" style="color:#fff;font-size: 60px;">Bienvenue !</h1>
+			<p class="col-md-6 col-md-offset-1" style="color:#fff;font-size: 20px;">Désormais connecté, vous pouvez profiter pleinement des fonctions proposées par notre site.</br>
+				<a href="wallet.html" style="color: #92AFFF;">Simulez</a>, <a href="chatroom.html" style="color: #92AFFF;">Tchatter</a>, regardez les <a href="news.html" style="color: #92AFFF;">news</a> !
+			</p>
+		</div> 	
+   		
+	</div>
+	</br>
+	
+	<div class="row">
+		<div class="col-md-6">
+   		
+		<body>
+			<div id="container" style=""></div>
+		</body>
+
+    	  </div>
+    	  
+    	  <div class="col-md-6">
+    	  <h1>Comprendre nos différents outils:(pour les beginners)</h1>
+    	
+    	 <p> De tous les types de tracés, le plus simple est la courbe continue. Cette courbe représente les cours de clôture de l'action pour chaque jour reliés entre eux par une ligne. L'axe horizontal représente le temps et l'axe vertical celui des cours.</p>
+    	   <div class="btn btn-custom col-md-5" data-toggle="modal" data-target="#myModal" style="color:white">
+  			Explanations for MMA20
+  			
+		  </div>
+		    <div class="btn-success btn-primary btn col-md-5 col-md-offset-1" data-toggle="modal" data-target="#myModal2">
+  			Explanations for Tendance
+		  </div>
+    	  </div>
+	     	
+	</div>
+	
+	<div class="row">
+	<div class="col-md-6">
+		<h1>Graphique Intraday</h1>
+		<p>Les données sont mises à jour régulièrement. Le graphique se met à jour automatiquement. Toutes nos données proviennent de Google.</p>
+	</div>
+	<div class="col-md-6">
+   		<div class="" style="background: #fff;">
+   		<div id="container10" style=""></div>
+   		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+   		<script src="../graphique/highstock.js"></script>
+		<script src="../graphique/exporting.js"></script>
+   		</div>
+   		</div>
+	</div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">Mobile Average 20 Days</h4>
+      </div>
+      <div class="modal-body">
+        Les moyennes mobiles sont toujours citées par ceux qui pratiquent l'Analyse Technique. Cependant, elles sont malgré tout souvent mises au second plan, au profit d'autres indicateurs. Ceux-ci utilisent les moyennes mobiles pour leur propre calcul de tracés, comme la MACD abordée dans la prochaine leçon.
+
+Je persiste à dire que c'est une perte pour l'analyste débutant autant que confirmé: les moyennes mobiles sont autant faciles à comprendre qu'expressives telles quelles et elles permettent ainsi de bien sentir les lois de base du marché. Retrouvons ces lois de bases essentielles sur cette même courbe du titre IBM qui nous a servi pour les lignes de tendance, mais complétée de certaines moyennes mobiles.
+
+La courbe en rose est la Moyenne Mobile Arithmétique des cours de clôture calculée sur 20 jours: la MMA20. Elle se calcule en additionnant les cours des 20 derniers jours et en divisant le résultat par 20. Ainsi, on a une idée de la valeur moyenne sur une durée de 20 jours.
+
+Naturellement, on retrouve une courbe assez bougeante, mais dont les impulsions sont retardées par rapport à la courbe des cours et dont les pointes sont aplaties et arrondies. Ce retard correspond évidemment à la moitié des périodes prises en compte dans le calcul, d'où cette impression de glissement des moyennes plus longues par rapport aux courtes. Utilité brute? A peu près aucune pour l'instant!
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+      </div>
+    </div>
+  </div>
+</div>	
+<!-- Modal -->
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">Tendance :</h4>
+      </div>
+      <div class="modal-body">
+       Les lignes de tendances sont la loi de base de l'analyse technique. Quelque analyse que vous appliquiez, vous devrez d'abord positionner et étudier soigneusement vos lignes pour déceler le comportement d'un titre, savoir comment il évolue.
+
+Ne pas le faire avant toute autre analyse peut entraîner des conclusions inexactes et nombre de professionnels n'ayant pas fait ce premier travail de manière attentive passent à côté d'éléments évidents. Travaillons donc ce point primordial. Je vous propose comme base de travail la courbe des cours quotidiens de l'action IBM cotée à Paris.
+
+Si l'on considère seule la courbe verte des cours, on constate simplement une croissance qui semble s'accélérer sur les derniers mois.
+
+Montrons maintenant cette première loi à laquelle sont soumises les courbes bondissantes des actions, celle des lignes de tendance. Regardez la ligne A que j'ai tracée en rouge: elle rejoint les plus hauts de la courbe des cours en plusieurs points. Pourquoi cette ligne peut être considérée? Simplement parce que dès qu'une ligne rejoignant des sommets touche au moins trois points, elle devient significative.
+
+Comme par magie, les cours sont venus butter contre cette ligne rouge. La loi imposée par cette ligne sur la valeur IBM a duré ainsi plus d'un an! Etonnant, non? Cette ligne de tendance s'appelle une résistance. Plus les cours viendront butter dessus et plus elle sera confirmée et résistera aux assauts des hausses.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>	
+
+	 <script type="text/javascript" src="../js/highchart-graph.js"></script>
+
+	  	
+
+	  <script type="text/javascript" src="../js/getid.js"></script>
+		
+
+			
+
+</body>
+
+
+
+	
+</html>

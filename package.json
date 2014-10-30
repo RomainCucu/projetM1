@@ -1,0 +1,11 @@
+{
+  "name": "Projet_ligotdor9",
+  "subdomain": "RomainStage-Projet_ligotdor9",
+  "scripts": {
+    "start": "node nodejs/server.js"
+  },
+  "version": "0.0.0-1",
+  "engines": {
+    "node": "0.8.x"
+  }
+}

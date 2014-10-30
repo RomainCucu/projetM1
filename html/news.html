@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.min.css" />
+	 <script  type="text/javascript"  src="../js/jquery.js"></script>
+
+
+	 
+	 
+
+	 
+	 
+    <title>Welcome to Gold Trading</title>
+    
+  </head>
+
+<body style="padding-top: 50px;">
+
+
+       <!-- Bar de menu *************************************************************************************************** -->
+ 			 		<nav class="navbar navbar-default navbar-fixed-top" role="navigation"  >
+ 	   <div class="container" >
+    <!-- Brand and toggle get grouped for better mobile display -->
+    		<div class="navbar-header">
+      			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+       			 <span class="sr-only">Toggle navigation</span>
+        		 <span class="icon-bar"></span>
+       			 <span class="icon-bar"></span>
+        		 <span class="icon-bar"></span>
+      			 </button>
+      			<a class="navbar-brand active" href="accueil.html"><p style="font:15px verdana; color:#000;">G<img src="../images/ausymbol.png" alt="" style="height:30px;"/>LD TRADING</p></a>
+      			  
+    		</div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      			<ul class="nav navbar-nav">
+				
+       			<li><a href="wallet.html">My Wallet</a></li>
+        		<li><a href="chatroom.html">ChatRoom</a></li>
+        		<li><a href="news.html">News</a></li>
+        		
+        		   
+        		<li ><a class="glyphicon glyphicon-envelope" href="messages.html">&nbsp<span class="badge">0</span></a></li>  
+        		<li ><a id="add-admin"></a></li>  
+        		<li><a id="p-heure" style="color:black; font-style: italic"></a></li> 
+      			</ul>
+      
+      			<ul class="nav navbar-nav navbar-right">
+      			
+      			
+        		<li class="dropdown">
+         		<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span id="nom_client"></span> <b class="caret"></b></a>
+          		<ul class="dropdown-menu">
+            	<li><a href="settings.html">Settings</a></li>
+            	<li><a href="contacts.html">Contacts</a></li>
+            
+            	<li class="divider"></li>
+            		<li><a class="p-logout" >Logout</a></li>
+          		</ul>
+        		</li>
+      			</ul>
+    	    </div><!-- /.navbar-collapse -->
+  		</div><!-- /.container-fluid -->
+		</nav>
+	<!-- fin menu *********************************************************************************************************  -->
+
+<div class="container-fluid">	
+<div class = "row"> 
+   		<div class="col-md-12"  style="height:  auto; padding: 15px; margin-bottom: 20px; padding-bottom:60px; padding-top:30px; background-image: linear-gradient(to bottom,#124629,#47A27B 100%);">
+			<h1 class="col-md-9 col-md-offset-1" style="color:#fff;font-size: 60px;">News !</h1>
+			
+		</div> 	
+   		
+	</div>
+	<div  class="row" >
+
+
+	<div   class="well col-md-6  "  style=" height: 500px; overflow: auto; background: #fff; ">
+		<h1>Information on all the market</h1>
+		<script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Frss.feedsportal.com%2Fc%2F268%2Ff%2F3632%2Findex.rss&chan=y&desc=1&utf=y"  charset="UTF-8" type="text/javascript"></script>
+
+
+		<noscript>
+		<a href="http://feed2js.org//feed2js.php?src=http%3A%2F%2Frss.feedsportal.com%2Fc%2F268%2Ff%2F3632%2Findex.rss&chan=y&desc=1&utf=y&html=y">View RSS feed</a>
+		</noscript>
+	
+	</div>
+	
+
+	<div class="well col-md-6" style=" height: 500px; overflow: auto; background: #fff; ">
+		<h1>Information for the gold ressources</h1>
+		<script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fwww.google.com%2Ffinance%2Fcompany_news%3Fq%3DNASDAQ%3AGOLD%26ei%3D_-xtU8jPMaetwAO-14CoDg%26output%3Drss&chan=y&desc=1&utf=y"  charset="UTF-8" type="text/javascript"></script>
+
+		<noscript>
+		<a href="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fwww.google.com%2Ffinance%2Fcompany_news%3Fq%3DNASDAQ%3AGOLD%26ei%3D_-xtU8jPMaetwAO-14CoDg%26output%3Drss&chan=y&desc=1&utf=y&html=y">View RSS feed</a>
+		</noscript>
+
+	</div>
+	
+	
+</div>
+
+	
+	<div class="row">
+  		<div class="col-md-2 col-md-offset-10"><a href="accueil.html">Back to the Home Page</a></div>
+	</div>
+	
+</div>
+ 
+
+    		
+	 <script  type="text/javascript"  src="../js/bootstrap.min.js"></script>
+	 <script type="text/javascript" src="../js/getid.js"></script>
+<script>
+	window.onload = function  () {
+	setTimeout(id.get_id, 1);
+	setTimeout(logout_process.start, 1);
+	};
+</script>	  
+      
+</body>
+</html>

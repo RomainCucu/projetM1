@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.min.css" />
+	 
+	 <script  type="text/javascript"  src="../js/jquery.js"></script>
+	 
+	 
+	  
+		 
+
+	 
+	 
+    <title>Welcome to Gold Trading</title>
+    
+  </head>
+
+<body style="padding-top: 50px;">
+
+
+       <!-- Bar de menu *************************************************************************************************** -->
+ 		 		<nav class="navbar navbar-default navbar-fixed-top" role="navigation"  >
+ 	   <div class="container" >
+    <!-- Brand and toggle get grouped for better mobile display -->
+    		<div class="navbar-header">
+      			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+       			 <span class="sr-only">Toggle navigation</span>
+        		 <span class="icon-bar"></span>
+       			 <span class="icon-bar"></span>
+        		 <span class="icon-bar"></span>
+      			 </button>
+      			<a class="navbar-brand active" href="accueil.html"><p style="font:15px verdana; color:#000;">G<img src="../images/ausymbol.png" alt="" style="height:30px;"/>LD TRADING</p></a>
+      			  
+    		</div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      			<ul class="nav navbar-nav">
+				
+       			<li><a href="wallet.html">My Wallet</a></li>
+        		<li><a href="chatroom.html">ChatRoom</a></li>
+        		<li><a href="news.html">News</a></li>
+        		
+        		   
+        		<li ><a class="glyphicon glyphicon-envelope" href="messages.html">&nbsp<span class="badge">0</span></a></li>  
+        		<li ><a id="add-admin"></a></li>  
+        		<li><a id="p-heure" style="color:black; font-style: italic"></a></li> 
+      			</ul>
+      
+      			<ul class="nav navbar-nav navbar-right">
+      			
+      			
+        		<li class="dropdown">
+         		<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span id="nom_client"></span> <b class="caret"></b></a>
+          		<ul class="dropdown-menu">
+            	<li><a href="settings.html">Settings</a></li>
+            	<li><a href="contacts.html">Contacts</a></li>
+            
+            	<li class="divider"></li>
+            		<li><a class="p-logout" >Logout</a></li>
+          		</ul>
+        		</li>
+      			</ul>
+    	    </div><!-- /.navbar-collapse -->
+  		</div><!-- /.container-fluid -->
+		</nav>
+	<!-- fin menu *********************************************************************************************************  -->
+
+
+	
+	<!-- *****************************************TITRE Settings******************************* -->
+	<div class = "row"> 
+   		<div class="col-md-12"  style="height:  auto; padding: 15px; margin-bottom: 20px; padding-bottom:60px; padding-top:30px; background-image: linear-gradient(to bottom,#124629,#47A27B 100%);">
+			<h1 class="col-md-9 col-md-offset-1" style="color:#fff;font-size: 60px;">Admin Part !</h1>
+			<p class="col-md-6 col-md-offset-1" style="color:#fff;font-size: 20px;">You are admin, you can delete account</br>
+			
+			</p>
+		</div> 	
+   		
+	</div>
+	
+	<!-- *****************************************Paramètres de la page admin************************************************-->
+	<div style="padding:20px">
+	<h1>Voici la liste des membres du site : <span id = "display-number-id" class="text-success" ></span><span> membres</span></h1>
+		
+	<div class="row">
+			<div id="" class="col-md-6" style="height: 400px; overflow: auto; ">
+				
+				<div class="" id="display-id">
+				</div>
+				
+			</div>
+			
+	
+
+			
+			
+			</div>
+	</div>
+
+	
+	<!-- **************************************Back to the home page************************************************-->
+	
+	<div class="row">
+  		<div class="col-md-2 col-md-offset-10"><a href="accueil.html">Back to the Home Page</a></div>
+	</div>
+	</div>
+	
+	
+	<!-- ************************************FOOTER***************************************************************-->
+	
+	<div class="footer" style="position: relative; top: 150px;">
+		<div class="row" style="font-size: 0.7em;">
+			<div class="col-md-12">
+				<table class="table table-striped table-condensed">
+					<tr><td>Here, you will find some informations if you have any problems or questions about our website.</td><tr>
+				</table>
+			</div>
+		</div>
+		<div class="row" style="font-size: 0.7em;">
+			<div class="col-md-12">
+				<table class="table table-striped table-condensed">
+					<TR><TH></TH><TH>Telephone</TH><TH>Email</TH><TH>Adress</TH></TR>
+					<TR><TD>MAGNE Alexandre</TD><TD>06 22 28 62 17</TD><TD><a href="mailto:"magne_a@esme.fr">magne_a@esme.fr</a></TD><TD><a href="http://www.esme.fr/">ESME Sudria</a>, France, <a href="https://www.google.fr/maps/place/38+Rue+Moli%C3%A8re/@48.8142159,2.3949923,17z/data=!3m1!4b1!4m2!3m1!1s0x47e673b2dac7e06d:0x9e3d7f8b545fd820">Ivry-sur-Seine, 38 rue Molière</a></TD></TR>
+					<TR><TD>CUNAULT Romain</TD><TD>06 50 53 67 29</TD><TD><a href="mailto:"cunault@esme.fr">cunault@esme.fr</a></TD><TD><a href="http://www.esme.fr/">ESME Sudria</a>, France, <a href="https://www.google.fr/maps/place/38+Rue+Moli%C3%A8re/@48.8142159,2.3949923,17z/data=!3m1!4b1!4m2!3m1!1s0x47e673b2dac7e06d:0x9e3d7f8b545fd820">Ivry-sur-Seine, 38 rue Molière</a></TD></TR>
+					<TR><TD>GRIGNON Pierre-Antoine</TD><TD>06 62 95 80 93</TD><TD><a href="mailto:"grignon@esme.fr">grignon@esme.fr</a></TD><TD><a href="http://www.esme.fr/">ESME Sudria</a>, France, <a href="https://www.google.fr/maps/place/38+Rue+Moli%C3%A8re/@48.8142159,2.3949923,17z/data=!3m1!4b1!4m2!3m1!1s0x47e673b2dac7e06d:0x9e3d7f8b545fd820">Ivry-sur-Seine, 38 rue Molière</a></TD></TR>
+				</table>
+			</div>
+		</div>
+	</div>
+
+		
+	<!-- ********************************************************************************************************-->
+	
+	
+	
+
+
+ <script  type="text/javascript"  src="../js/bootstrap.min.js"></script>
+		
+	<script type="text/javascript" src="../js/getid.js"></script>
+	<script type="text/javascript" src="../js/admin.js"></script>
+	
+
+    	
+	
+</body>
+</html>

@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
+	 <link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.min.css" />
+	 <script  type="text/javascript"  src="../js/jquery.js"></script>
+	
+	 <script  type="text/javascript"  src="../js/bootstrap.js"></script>
+	
+	 
+	 
+
+	 
+	 
+    <title>Welcome to Gold Trading</title>
+    
+  </head>
+
+<body style="padding-top: 50px; ">
+
+
+       <!-- Bar de menu *************************************************************************************************** -->
+ 			 		<nav class="navbar navbar-default navbar-fixed-top" role="navigation"  >
+ 	   <div class="container" >
+    <!-- Brand and toggle get grouped for better mobile display -->
+    		<div class="navbar-header">
+      			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+       			 <span class="sr-only">Toggle navigation</span>
+        		 <span class="icon-bar"></span>
+       			 <span class="icon-bar"></span>
+        		 <span class="icon-bar"></span>
+      			 </button>
+      			<a class="navbar-brand active" href="accueil.html"><p style="font:15px verdana; color:#000;">G<img src="../images/ausymbol.png" alt="" style="height:30px;"/>LD TRADING</p></a>
+      			  
+    		</div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      			<ul class="nav navbar-nav">
+				
+       			<li><a href="wallet.html">My Wallet</a></li>
+        		<li><a href="chatroom.html">ChatRoom</a></li>
+        		<li><a href="news.html">News</a></li>
+        		
+        		   
+        		<li ><a class="glyphicon glyphicon-envelope" href="messages.html">&nbsp<span class="badge">0</span></a></li>  
+        		<li ><a id="add-admin"></a></li>  
+        		<li><a id="p-heure" style="color:black; font-style: italic"></a></li> 
+      			</ul>
+      
+      			<ul class="nav navbar-nav navbar-right">
+      			
+      			
+        		<li class="dropdown">
+         		<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span id="nom_client"></span> <b class="caret"></b></a>
+          		<ul class="dropdown-menu">
+            	<li><a href="settings.html">Settings</a></li>
+            	<li><a href="contacts.html">Contacts</a></li>
+            
+            	<li class="divider"></li>
+            		<li><a class="p-logout" >Logout</a></li>
+          		</ul>
+        		</li>
+      			</ul>
+    	    </div><!-- /.navbar-collapse -->
+  		</div><!-- /.container-fluid -->
+		</nav>
+	<!-- fin menu *********************************************************************************************************  -->
+
+	<!-- contenu -->
+	<div class="container-fluid">
+	<div class = "row"> 
+   		<div class="col-md-12"  style="height:  auto; padding: 15px; margin-bottom: 20px; padding-bottom:60px; padding-top:30px; background-image: linear-gradient(to bottom,#124629,#47A27B 100%);">
+			<h1 class="col-md-9 col-md-offset-1" style="color:white;font-size: 60px;">My Wallet !</h1>
+			<p class="col-md-6 col-md-offset-1" style="color:white;font-size: 20px;">Sur my Wallet, <span style="color: #92AFFF;">achetez</span>, <span style="color: #92AFFF;">vendez</span> et <span style="color: #92AFFF;">simulez</span> vos mouvements financiers !</br>
+				
+			</p>
+		</div> 	
+   		
+	</div>
+	<div class="row">
+	<div class="col-md-6">	
+		
+	
+	
+		
+
+		<div id="container20"></div>
+
+	</div>
+	
+	<div class="col-md-6" style="min-width: 500px; height: 350px; margin: 0 auto;" >
+			<div class="col-md-12 form-group" style="background-color:#fff">
+						
+							<h3>Value of open : <pan id="old-value-of-gold" class="text-info"></span></h3>
+							<h3 >Current Value of Gold : <span class="text-success" id="value-of-gold"></span><span id="symbol-value" class="glyphicon"></span><span>&nbsp&nbsp&nbsp</spans><span id="value-of-diff" class=""></span></h3> 
+							<h3 >Value taken on : <span class="text-success" id="value-of-date"></span></h3> 
+							<h3>You have : <span class="text-success" id="value-of-stock"></span><span class="text"> stocks</span></h3>
+							<h3>+/- value : <span id="plus-moins-value"></span><span class="glyphicon glyphicon-usd"></span></h3>
+						
+						
+			</div>
+	
+			<div class="col-md-12 " style="background-color:#fff; padding: 0px; ">
+				<h3>Buy or Sell</h3>	
+						<div  role="form">
+							<div class="form-group">
+								<div class = "row">
+									<div class="col-xs-4">
+							
+										<label class="sr-only" for="buyGold">Buy</label>
+										<input id="buy-btn" type="text" class="form-control " id="buyGold" placeholder="Nbr of Stocks">
+									</div>
+							
+									<div id="" type="submit" class="buy-btn  btn btn-default col-xs-2">buy</div>
+									<div class=" text-danger" id="buy-btn-text"></div>
+									<span class="text col-xs-5">you can buy <span class=" text-danger" id="how-many-available-buy"></span><span class = "text"> stocks !</span></span>
+								</div>
+							</div>
+				
+							<div class="form-group">
+								<div class =" row ">
+									<div class = "col-xs-4">
+										<label class="sr-only" for="buyGold">Sell</label>
+										<input id="sell-btn" class="form-control" id="buyGold" placeholder="Nbr of Stocks">
+									</div>
+									 <div id="sellbtn " type="submit" class=" col-xs-2 sell-btn btn btn-default">sell</div>
+									 <div class=" text-danger" id="sell-btn-text"></div>
+									 <span class="text col-xs-5">you can sell <span class=" text-success" id="how-many-available-sell"></span><span class = "text"> stocks !</span></span>
+								</div>
+							</div>
+				
+							<div class="form-group">
+								<div class =" row ">
+						
+									 <div id="reset-btn" type="submit" class="reset-btn btn btn-default" style="margin-left: 15px;">Reset my wallet</div>
+								</div>
+							</div>
+						</div>
+
+				
+			</div> 
+			
+	
+		</div>	
+		
+	</div>
+	</br>
+	
+	<div class="row">
+	<!-- Button trigger modal -->
+<div class="col-md-offset-1 btn btn-warning btn-lg" data-toggle="modal" data-target="#myModal">
+  See the GLOBAL stock curve HERE
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">Gold Stock</h4>
+      </div>
+      <div class="modal-body">
+       <div class="col-md-12">
+	<script>
+	
+// fonction pour remplir le graphe ======================================
+var remplissage = function () {
+	var data = {ac: "get_charts"};
+	post(data, charts_remp);
+};
+
+charts_remp = function () {
+	if (this.readyState == 4 && this.status == 200) {
+		var r = JSON.parse(this.responseText);
+		
+		$('#container10').highcharts('StockChart', {
+		 rangeSelector: {
+	    	buttonTheme: { // styles for the buttons
+	    		//fill: 'none',
+	    		//stroke: 'none',
+	    		//'stroke-width': 0,
+	    		//r: 8,
+	    		style: {
+	    			color: '#000',
+	    			fontWeight: 'bold'
+	    		},
+	    		states: {
+	    			hover: {
+	    			
+	    			},
+	    			select: {
+	    				fill: '#ed9c28',
+	    				style: {
+	    					color: 'white'
+	    				}
+	    			}
+	    		}
+	    	},
+	    	inputBoxBorderColor: 'gray',
+	    	inputBoxWidth: 120,
+	    	inputBoxHeight: 18,
+	    	inputStyle: {
+	    		color: '#000',
+	    		fontWeight: 'bold'
+	    	},
+	    	labelStyle: {
+	    		color: 'silver',
+	    		fontWeight: 'bold'
+	    	},
+	    	selected: 1
+	    },
+
+			title : {
+			
+				text : "Gold Stock Price in $",
+				style : {"color": "#000"}
+				
+			},
+			
+			series : [{
+				color: '#ed9c28',
+				name : "Gold",
+				data : r,
+				tooltip: {
+					valueDecimals: 2
+				}
+				
+				
+			}]
+			
+			
+		});
+	}
+};
+
+
+var post = function (data, callback) {
+    var xhr = new XMLHttpRequest();
+    xhr.open("POST", "/");
+    xhr.onreadystatechange = callback;
+    xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+    xhr.send(JSON.stringify(data));
+};
+	</script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+	<div id="container10" style="height: 400px; min-width: 500px"></div>
+	</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+	</div>
+		</br>
+	<div class="row">
+<!-- Button trigger modal -->
+<div class="col-md-offset-1 btn btn-warning btn-lg" data-toggle="modal" data-target="#myModal2">
+  See the Intraday stock curve HERE
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">Gold Stock</h4>
+      </div>
+      <div class="modal-body">
+       <div class="col-md-12">
+	<script>var remplissage2 = function (){
+	var data = {ac: "get_charts_intraday"};
+	post2(data, charts_remp2);
+};
+
+charts_remp2 = function () {
+	if (this.readyState == 4 && this.status == 200) {
+		var r = JSON.parse(this.responseText);
+		$(function() {
+	
+	Highcharts.setOptions({
+		global : {
+			useUTC : false
+		}
+	});
+	
+	// Create the chart
+	$('#container2').highcharts('StockChart', {
+		chart : {
+			events : {
+				load : function() {
+
+					// set up the updating of the chart each second
+					var series = this.series[0];
+					setInterval(function() {
+						var x = r[r.length-1][0], // current time
+						y = r[r.length-1][1];
+						series.addPoint([x, y], true, true);
+					}, 10000);
+				}
+			}
+		},
+		
+		
+		rangeSelector: {
+			buttons: [{
+				count: 60,
+				type: 'minute',
+				text: '1h'
+			}, {
+				count: 1,
+				type: 'day',
+				text: '1d'
+			}, {
+				type: 'all',
+				text: 'All'
+			}],
+			inputEnabled: false,
+			selected: 0
+		},
+		
+		title : {
+			text : 'Value of Gold - Intraday'
+		},
+		 subtitle: {
+                text: 'Dynamic graphic',
+                
+            },
+		 yAxis: {
+                title: {
+                    text: 'Value in $'
+                },},
+		exporting: {
+			enabled: false
+		},
+		 
+		series : [{
+			name : 'Gold Value',
+			data : (function() {
+				// generate an array of random data
+				var data = [];
+
+				for( i = 0; i <= (r.length-1); i++) {
+					data.push([
+						r[i][0],
+						r[i][1]
+					]);
+				}
+				return data;
+			})()
+		}]
+	});
+
+});
+
+		}
+};
+var post2 = function (data, callback) {
+    var xhr = new XMLHttpRequest();
+    xhr.open("POST", "/");
+    xhr.onreadystatechange = callback;
+    xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+    xhr.send(JSON.stringify(data));
+};</script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script src="../graphique/highstock.js"></script>
+	<script src="../graphique/exporting.js"></script>
+	<div id="container2" style="height: 400px; min-width: 500px"></div>
+	</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+	
+		
+	</div>
+
+	
+	<div class="row">
+  		<div class="col-md-2 col-md-offset-10"><a href="accueil.html">Back to the Home Page</a></div>
+	</div>
+</div>
+<script  type="text/javascript"  src="../js/getid.js"></script> 
+<script  type="text/javascript"  src="../js/js-wallet.js"></script> 
+       
+</body>
+</html>
